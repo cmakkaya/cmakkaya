@@ -1,8 +1,9 @@
 ![Banner](https://user-images.githubusercontent.com/94003285/160726707-347b63e0-ac09-492f-baa9-bf341efd3e7e.jpg)
 
 # Hi there, <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = "40" align="center"> Nice to see you. <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="40"/> <img align="right" src="https://github.com/enes9103/enes9103/blob/main/geek.gif" width="300"/>
+
 <p>
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=074481&size=28&lines=Welcome+to+my+GitHub+Profile!;I'm+a+AWS+Cloud+Architect+and+DevOps+Engineer;I'm+interested+in+DevSecOps;I'm+love+learning+about+them;" /></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=f80321&size=28&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Cloud+/+DevOps+Engineer,;I'm+interested+in+DevSecOps,;I'm+love+learning+about+them.;" /></a>
 </p>
 <!--
 
