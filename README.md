@@ -1,5 +1,5 @@
-<!--
 ![Banner](https://user-images.githubusercontent.com/94003285/160726707-347b63e0-ac09-492f-baa9-bf341efd3e7e.jpg)
+
 ![](https://komarev.com/ghpvc/?username=cmakkaya)
 
 <img src="https://github-readme-stats.vercel.app/api?username=cmakkaya&theme=chartreuse-dark" alt="my github stats" width="49%"/>
@@ -9,7 +9,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cmakkaya&theme=chartreuse-dark&layout=compact" alt="languages" width="50%">
 -->
 
-# Hi there, I'm Çumhur Mesut AKKAYA 👋 
+# Hi there, I'm Cumhur Mesut AKKAYA 👋 
 
 - :zap: I love math, programming, and books,
 - 🌱 I’m addicted to learning and growing every day.
