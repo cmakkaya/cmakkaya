@@ -1,6 +1,8 @@
 ![Banner](https://user-images.githubusercontent.com/94003285/160726707-347b63e0-ac09-492f-baa9-bf341efd3e7e.jpg)
 <!--
 
+https://github.com/DenverCoder1/readme-typing-svg
+
 ![](https://komarev.com/ghpvc/?username=cmakkaya)
 
 <img src="https://github-readme-stats.vercel.app/api?username=cmakkaya&theme=chartreuse-dark" alt="my github stats" width="49%"/>
@@ -25,6 +27,7 @@
 
 #### ⚙ Tools & Technologies
 <a href="#" target="_blank"> <img src="https://img.icons8.com/color/48/000000/github--v1.png" alt="gitHub" height="50"/> </a>
+![image](https://user-images.githubusercontent.com/110052470/201776308-aac8f08f-d37d-4774-85d1-cda4b6ff6436.png)
 <a href="#" target="_blank"> <img src="https://img.shields.io/badge/jira-1e90ff.svg?&style=for-the-badge&logo=jira&logoColor=white" height="35"/> </a>
 <a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Slack_Technologies_Logo.svg/1280px-Slack_Technologies_Logo.svg.png" height="30"/> </a>
 <a href="#" target="_blank"> <img src="https://www.pngitem.com/pimgs/m/80-800968_vscode-visual-studio-logo-png-transparent-png.png" alt="vs-code" height="50"/> </a>
