@@ -3,20 +3,13 @@
 
 ![](https://komarev.com/ghpvc/?username=cmakkaya)
 
-<img src="https://github-readme-stats.vercel.app/api?username=cmakkaya&theme=chartreuse-dark" alt="my github stats" width="49%"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=cmakkaya&theme=chartreuse-dark" alt="my commit status" width="49%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cmakkaya&theme=chartreuse-dark&layout=compact" alt="languages" width="50%">
--->
-
 # Hi there, I'm Cumhur Mesut AKKAYA 👋 
 
-- :zap: I love math, programming, and books,
+- :zap: I love math, IT world and books.
 - 🌱 I’m addicted to learning and growing every day.
-- :earth_africa: I am currently sharing a little bit of my knowledge to the world through my blogs
-- 🥅 2023 Goals: Learn more about DevOps,
-- 😻 Fun fact: I love to read and walk,
+- :earth_africa: I really like to help people. Besides this, I
+- 🥅 2023 Goals: Learn more about DevOps and Cloud.
+- 😻 Fun fact: I love to read, search and write about IT especially Cloud, DevOps and DevSecOps. Besides this, I love to walk, ride and fish.
 - 📫 How to find me:
   - :bulb: [Medium Articles](https://cmakkaya.medium.com/)
   - :bulb: [Wordpress Articles](https://cloudplatformsanddevops.wordpress.com/)
@@ -45,6 +38,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=cetinakkaya&theme=chartreuse-dark" alt="my github stats" width="49%"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cetinakkaya&theme=chartreuse-dark&layout=compact" alt="languages" width="50%"> 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=cetinakkaya&theme=chartreuse-dark" alt="my commit status" width="49%"/>
+
 
  
 
