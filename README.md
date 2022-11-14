@@ -3,7 +3,7 @@
 # Hi there, <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = "40" align="center"> Nice to see you. <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="40"/> <img align="right" src="https://github.com/enes9103/enes9103/blob/main/geek.gif" width="300"/>
 
  <p>
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+a+AWS-Cloud+Architect;I'm+a+DevOps+Enginier;I'm+a+DevSecOps+Enginier" /></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+a+AWS Cloud+Architect;I'm+a+DevOps+Enginier;I'm+a+DevSecOps+Enginier" /></a>
 </p>
 
 <!--
@@ -16,6 +16,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cmakkaya&theme=chartreuse-dark&layout=compact" alt="languages" width="50%">
 -->
+
 # I'm Cumhur Mesut AKKAYA 👋 
 
 - :zap: I love math, IT world and books.
@@ -29,6 +30,8 @@
   - :office: [LinkedIn](https://www.linkedin.com/in/cumhurakkaya/)
   - :office: [Resume/Portfolio Page](http://resume.cmakkaya-awsdevops.link/)
   - 📺:[YouTube](https://www.youtube.com/channel/UCWcRIvy70tBBfrmBocDR5hA)
+
+
 
 ## 🚴 Skills
 <p>
@@ -52,7 +55,10 @@
 <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg" alt="css" width="70" height="48"/> </a>
 <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/slack/slack-ar21.svg" alt="Slack" height="48"/> </a>
 </p>
+
+
 ## 📊 Statistics
+
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=seryum65&theme=chartreuse-dark&show_icons=true" alt="my github stats" width="49%"/>&nbsp;
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=seryum65&theme=chartreuse-dark&show_icons=true" alt="my commit status" width="49%" /> </p>
