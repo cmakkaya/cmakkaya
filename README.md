@@ -64,3 +64,4 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=seryum65&theme=chartreuse-dark&show_icons=true" alt="my commit status" width="49%" /> </p>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seryum65&langs_count=8&theme=chartreuse-dark&layout=compact" alt="languages" width="49%" > </p>
   
+[ <p align="right"> ![](https://img.shields.io/badge/dynamic/json?color=000000&label=GitHub&query=%24.data.totalSubs&suffix=%20followers&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DMeralinka)](https://github.com/Meralinka) <img alt="Coding" width="90" height="19" src="https://komarev.com/ghpvc/?username=Meralinka&label=Profile%20views&color=129e00&style=plastic" alt="Meral" /> </p> 
