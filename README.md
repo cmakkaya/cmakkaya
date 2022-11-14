@@ -17,7 +17,9 @@
 - 😻 Fun fact: I love to read and walk,
 - 📫 How to find me:
   - :bulb: [Medium Articles](https://cmakkaya.medium.com/)
+  - :bulb: [Wordpress Articles](https://cloudplatformsanddevops.wordpress.com/)
   - :office: [LinkedIn](https://www.linkedin.com/in/cumhurakkaya/)
+  - :office: [Resume/Portfolio Page](http://resume.cmakkaya-awsdevops.link/)
   - 📺:[YouTube](https://www.youtube.com/channel/UCWcRIvy70tBBfrmBocDR5hA)
 
 
