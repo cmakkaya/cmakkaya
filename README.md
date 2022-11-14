@@ -22,6 +22,7 @@
   - :office: [Resume/Portfolio Page](http://resume.cmakkaya-awsdevops.link/)
   - 📺:[YouTube](https://www.youtube.com/channel/UCWcRIvy70tBBfrmBocDR5hA)
 
+![image](https://user-images.githubusercontent.com/110052470/201769548-73583c01-244d-425e-80f5-f2df0d9ebe89.png)
 
 <details>
   <summary>:zap: GitHub Stats</summary>
