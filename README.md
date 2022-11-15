@@ -16,7 +16,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cmakkaya&theme=chartreuse-dark&layout=compact" alt="languages" width="50%">
 -->
 
-# I'm Cumhur Mesut AKKAYA 👋 
+## I'm Cumhur Mesut AKKAYA 👋 
 
 - :zap: I love math, IT world and books.
 - 🌱 I’m addicted to learning and growing every day.
@@ -24,11 +24,12 @@
 - 🥅 2023 Goals: Learn more about DevOps and Cloud.
 - 😻 Fun fact: I love to read, search and write about IT especially Cloud, DevOps and DevSecOps. Besides this, I love to walk, ride and fish.
 - 📫 How to find me:
-  - :bulb: [Medium Articles](https://cmakkaya.medium.com/)
-  - :bulb: [Wordpress Articles](https://cloudplatformsanddevops.wordpress.com/)
-  - :office: [LinkedIn](https://www.linkedin.com/in/cumhurakkaya/)
+  - :pencil2: [Medium Articles](https://cmakkaya.medium.com/)
+  - :pencil2: [Wordpress Articles](https://cloudplatformsanddevops.wordpress.com/)
+  - :bulb: [LinkedIn](https://www.linkedin.com/in/cumhurakkaya/)
   - :office: [Resume/Portfolio Page](http://resume.cmakkaya-awsdevops.link/)
   - 📺:[YouTube](https://www.youtube.com/channel/UCWcRIvy70tBBfrmBocDR5hA)
+
 
 
 
@@ -58,11 +59,11 @@
 </p>
 
 
-## 📊 Statistics
+## :zap: GitHub Statistics📊 
 
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=seryum65&theme=chartreuse-dark&show_icons=true" alt="my github stats" width="49%"/>&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=seryum65&theme=chartreuse-dark&show_icons=true" alt="my commit status" width="49%" /> </p>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seryum65&langs_count=8&theme=chartreuse-dark&layout=compact" alt="languages" width="49%" > </p>
+<img src="https://github-readme-stats.vercel.app/api?username=cmakkaya&theme=chartreuse-dark&show_icons=true" alt="my github stats" width="49%"/>&nbsp;
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=cmakkaya&theme=chartreuse-dark&show_icons=true" alt="my commit status" width="49%" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cmakkaya&langs_count=8&theme=chartreuse-dark&layout=compact" alt="languages" width="49%" > </p>
   
-[ <p align="left"> ![](https://img.shields.io/badge/dynamic/json?color=000000&label=GitHub&query=%24.data.totalSubs&suffix=%20followers&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dcmakkaya)](https://github.com/cmakkaya) <img alt="Coding" width="90" height="19" src="https://komarev.com/ghpvc/?username=Meralinka&label=Profile%20views&color=129e00&style=plastic" alt="Meral" /> </p> 
+[ <p align="left"> ![](https://img.shields.io/badge/dynamic/json?color=000000&label=GitHub&query=%24.data.totalSubs&suffix=%20followers&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dcmakkaya)](https://github.com/cmakkaya) <img alt="Coding" width="90" height="19" src="https://komarev.com/ghpvc/?username=cmakkaya&label=Profile%20views&color=129e00&style=plastic" alt="cumhur" /> </p> 
