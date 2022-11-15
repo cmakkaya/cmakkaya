@@ -23,7 +23,8 @@
 - :earth_africa: I really like to help people. Besides this, I
 - 🥅 2023 Goals: Learn more about DevOps and Cloud.
 - 😻 Fun fact: I love to read, search and write about IT especially Cloud, DevOps and DevSecOps. Besides this, I love to walk, ride and fish.
-- 📫 How to find me:
+
+- 🔗 &nbsp;**Connect with me** 📫
   - :pencil2: [Medium Articles](https://cmakkaya.medium.com/)
   - :pencil2: [Wordpress Articles](https://cloudplatformsanddevops.wordpress.com/)
   - :bulb: [LinkedIn](https://www.linkedin.com/in/cumhurakkaya/)
