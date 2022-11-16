@@ -1,4 +1,4 @@
-![Banner](https://user-images.githubusercontent.com/94003285/160726707-347b63e0-ac09-492f-baa9-bf341efd3e7e.jpg)
+<img src="https://www.opcito.com/hs-fs/hubfs/DevOps-CI-CD_03.gif?width=600&height=400&name=DevOps-CI-CD_03.gif" align="right" width="350" height="200">
 
 # Hi there, <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = "40" align="center"> Nice to see you. <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="40"/> <img align="right" src="https://github.com/enes9103/enes9103/blob/main/geek.gif" width="300"/>
 
@@ -62,7 +62,7 @@
 
 ## :zap: GitHub Statistics📊 
 
-<p align="left">
+<p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=cmakkaya&theme=chartreuse-dark&show_icons=true" alt="my github stats" width="49%"/>&nbsp;
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=cmakkaya&theme=chartreuse-dark&show_icons=true" alt="my commit status" width="49%" /> </p>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cmakkaya&langs_count=8&theme=chartreuse-dark&layout=compact" alt="languages" width="49%" > </p>
