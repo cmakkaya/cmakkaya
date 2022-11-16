@@ -1,5 +1,3 @@
-<img src="https://www.opcito.com/hs-fs/hubfs/DevOps-CI-CD_03.gif?width=600&height=400&name=DevOps-CI-CD_03.gif" align="right" width="350" height="200">
-
 # Hi there, <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = "40" align="center"> Nice to see you. <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="40"/> <img align="right" src="https://github.com/enes9103/enes9103/blob/main/geek.gif" width="300"/>
 
 <p>
@@ -18,23 +16,25 @@
 
 ## I'm Cumhur Mesut AKKAYA 👋 
 
-- :zap: I love math, IT world and books.
-- 🌱 I’m addicted to learning and growing every day.
-- :earth_africa: I really like to help people. Besides this, I
+- :zap: I like to spend time at the computer, learning new things, researching. I love IT world and books.
+- 🌱 I’m dedicated to lifelong learning, to my three children and to my unique wife.
 - 🥅 2023 Goals: Learn more about DevOps and Cloud.
 - 😻 Fun fact: I love to read, search and write about IT especially Cloud, DevOps and DevSecOps. Besides this, I love to walk, ride and fish.
+- :earth_africa: I really like to help people. 
 
-- 🔗 &nbsp;**Connect with me** 📫
+- 🔗 🌐 &nbsp;**Connect with me**  📫
   - :pencil2: [Medium Articles](https://cmakkaya.medium.com/)
   - :pencil2: [Wordpress Articles](https://cloudplatformsanddevops.wordpress.com/)
   - :bulb: [LinkedIn](https://www.linkedin.com/in/cumhurakkaya/)
   - :office: [Resume/Portfolio Page](http://resume.cmakkaya-awsdevops.link/)
   - 📺:[YouTube](https://www.youtube.com/channel/UCWcRIvy70tBBfrmBocDR5hA)
 
+<p>
+<p align="center">
+<img src="https://www.opcito.com/hs-fs/hubfs/DevOps-CI-CD_03.gif?width=600&height=400&name=DevOps-CI-CD_03.gif" align="right" width="350" height="200">
+</p>
 
-
-
-## 🚴 Skills
+## 🚴 Skills 💻 
 <p>
 <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" alt="AWS" width="70" height="48"/> </a> 
 <a href="#" target="_blank"> <img src="https://cdn.wmaraci.com/nedir/Microsoft-Azure.png" alt="AWS" width="70" height="48"/> </a> 
@@ -68,3 +68,5 @@
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cmakkaya&langs_count=8&theme=chartreuse-dark&layout=compact" alt="languages" width="49%" > </p>
   
 [ <p align="left"> ![](https://img.shields.io/badge/dynamic/json?color=000000&label=GitHub&query=%24.data.totalSubs&suffix=%20followers&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dcmakkaya)](https://github.com/cmakkaya) <img alt="Coding" width="90" height="19" src="https://komarev.com/ghpvc/?username=cmakkaya&label=Profile%20views&color=129e00&style=plastic" alt="cumhur" /> </p> 
+<p align="center">
+<img src="https://www.opcito.com/hs-fs/hubfs/DevOps-CI-CD_03.gif?width=600&height=400&name=DevOps-CI-CD_03.gif" align="right" width="350" height="200">
