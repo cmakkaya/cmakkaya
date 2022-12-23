@@ -23,7 +23,6 @@
 
 - :earth_africa: I love IT world and books. I love to be and improve myself in this field. 
 - 💬 And at the same time I am adding my projects here to reach them when i need, and also maybe they can be helpful for others.
-- :zap: I like to spend time at the computer, learning new things, researching. 
 - 🌱 I’m dedicated to lifelong learning, to my three children and to my unique wife.
 - 🥅 2023 Goals: Learn more about DevSecOps and Cloud (Azure and GCP).
 - 😻 Fun fact: I love to read, search and write about IT especially Cloud, DevOps and DevSecOps. Besides this, I love to walk, ride and fish.
