@@ -59,6 +59,17 @@
 </p>
 
 ## <p>
+🚌: Below are the repositories that I used throughout my AWS/DevOps journey while learning different `AWS Services`, `DevOps Tools`, `Linux`, `Bash Scripting`.
+
+  | Repository Name | Description  |
+  | ------ | ------ |
+  | [AWS Services](https://github.com/cmakkaya/G1-AWS-Services/tree/master/hands-on) | Demos for different AWS Services including IAM, EC2, CFN, S3, EBS, ELB, ASG, AWS CLI, RDS, DynamoDB, Boto3, SNS, SQS, CloudWatch, Cognito, EKS, ECR, ECS, Fargate, VPC, Route53, CloudFront, ElasticBeanstalk, Lambda, EFS, NAT GW, API GW, CodeCommit, CodeBuild, CodeDeploy, CodePipeline |
+  | [DevOps Tools](https://github.com/cmakkaya/G2-DevOps-Tools/tree/master/hands-on) | Demos for different DevOps Tools including Terraform, Docker, Kubernetes, Ansible, Nexus, Prometheus, Grafana, Helm, Jenkins, Maven, Git-Github, Gitlab, Agile, Jira, Rancher, Selenyum |
+  | [Other Tools](https://github.com/cmakkaya/G3-Other-Tools) | Demos for different Tools including Linux, Network, Bash Scripting, VScode-Vim-Nano |
+  | [AWS DevOps Projects](https://github.com/cmakkaya/G4-AWS-DevOpsProjects) | DevOps projects using AWS |
+  | [CI/CD microservices with database](https://github.com/cmakkaya/Ln-D07-DevOps_Big_Project-Creating-Microservices_CI-CD-and-Deploying-Web-App) | JJava Microservices CI/CD Project for Dynamic web page with database, having profile: Developer/Staging/Production,   Using Devops Tools (Kubernetes, Docker, Docker_Compose, Jenkins, Maven, Nexus, Ansible, Selenium, Rancher, Prometheus, Grafana, Git, Github, Terraform) and AWS Toolls (ECS, ECR, R53, EC2, VPC's Compenents) and Deploying the Spring Web App on it. |
+ 
+## <p>
 <p align="center">
 <img align="center" src="https://github.com/cmakkaya/cmakkaya/blob/main/DevOps-CI-CD.gif" width="300"/>
 </p>
