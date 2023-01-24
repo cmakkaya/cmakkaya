@@ -59,7 +59,7 @@
 </p>
 
 ## <p> 
-🚌: There are documents(class-notes, hands-on, projects and inclass-slides) in the repositories below, that I used throughout  [my AWS/DevOps journey](https://github.com/cmakkaya)  while learning different `AWS Services`, `DevOps Tools` `and other tools` `(Linux, Network, Bash Scripting, VScode-Vim-Nano)`.
+🚌 There are documents(class-notes, hands-on, projects and inclass-slides) in the repositories below, that I used throughout  [my AWS/DevOps journey](https://github.com/cmakkaya)  while learning different `AWS Services`, `DevOps Tools` `and other tools` `(Linux, Network, Bash Scripting, VScode-Vim-Nano)`.
 
   | Repository Name | Description  |
   | ------ | ------ |
