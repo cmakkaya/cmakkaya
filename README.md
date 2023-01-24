@@ -67,7 +67,7 @@
   | [DevOps Tools](https://github.com/cmakkaya/G2-DevOps-Tools/tree/master/hands-on) | Demos for different DevOps Tools including Terraform, Docker, Kubernetes, Ansible, Nexus, Prometheus, Grafana, Helm, Jenkins, Maven, Git-Github, Gitlab, Agile, Jira, Rancher, Selenyum. |
   | [Other Tools](https://github.com/cmakkaya/G3-Other-Tools) | Demos for different Tools including Linux, Network, Bash Scripting, VScode-Vim-Nano. |
   | [AWS DevOps Projects](https://github.com/cmakkaya/G4-AWS-DevOpsProjects) | DevOps projects using AWS. |
-  | [CI/CD microservices with database](https://github.com/cmakkaya/Ln-D07-DevOps_Big_Project-Creating-Microservices_CI-CD-and-Deploying-Web-App) | Java Microservices CI/CD Project for Dynamic web page with database, having profile: Developer/Staging/Production.   Using Devops Tools (Kubernetes, Docker, Docker_Compose, Jenkins, Maven, Nexus, Ansible, Selenium, Rancher, Prometheus, Grafana, Git, Github, Terraform) and AWS Tools (ECS, ECR, R53, EC2, VPC's Components) and Deploying the Spring Web App on it. |
+  | [CI/CD microservices with database](https://github.com/cmakkaya/Ln-D07-CI-CD-Microservices-and-Deploying-Web-App) | Java Microservices CI/CD Project for Dynamic web page with database, having profile: Developer/Staging/Production.   Using Devops Tools (Kubernetes, Docker, Docker_Compose, Jenkins, Maven, Nexus, Ansible, Selenium, Rancher, Prometheus, Grafana, Git, Github, Terraform) and AWS Tools (ECS, ECR, R53, EC2, VPC's Components) and Deploying the Spring Web App on it. |
  
 ## <p>
 <p align="center">
