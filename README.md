@@ -58,8 +58,8 @@
 <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/slack/slack-ar21.svg" alt="Slack" height="48"/> </a>
 </p>
 
-## <p>
-🚌: Below are the repositories that I used throughout my AWS/DevOps journey while learning different `AWS Services`, `DevOps Tools` `and other tools` `Linux, Network, Bash Scripting, VScode-Vim-Nano`.
+## <p> 
+🚌: There are documents(class-notes, hands-on, projects and inclass-slides) in the repositories below, that I used throughout  [my AWS/DevOps journey](https://github.com/cmakkaya)  while learning different `AWS Services`, `DevOps Tools` `and other tools` `Linux, Network, Bash Scripting, VScode-Vim-Nano`.
 
   | Repository Name | Description  |
   | ------ | ------ |
