@@ -31,7 +31,7 @@
   - :pencil2: [Medium Articles](https://cmakkaya.medium.com/)
   - :pencil2: [Wordpress Articles](https://cloudplatformsanddevops.wordpress.com/)
   - 🌐 [LinkedIn](https://www.linkedin.com/in/cumhurakkaya/) 
-  - :office: [Resume/Portfolio Page](http://resume.cmakkaya-awsdevops.link/)
+  - :office: [Portfolio/Resume Page](http://portfolio.cmakkaya-awsdevops.link/)
   - 📺:[YouTube](https://www.youtube.com/channel/UCWcRIvy70tBBfrmBocDR5hA)
 
 ## 🚴 Skills 💻 
