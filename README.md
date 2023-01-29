@@ -40,7 +40,7 @@
 <a href="#" target="_blank"> <img src="https://cdn.wmaraci.com/nedir/Microsoft-Azure.png" alt="AWS" width="70" height="48"/> </a> 
 <a href="#" target="_blank"> <img src="https://1000logos.net/wp-content/uploads/2020/05/Logo-Google-Cloud.jpg" alt="AWS" width="70" height="48"/> </a>  
 <a href="#" target="_blank"> <img src="https://algoteque.com/wp-content/uploads/2019/04/1AwvDJDfErlD34ox2QpwGoA.png" alt="DevOps" width="100" height="48"/> </a> 
-<a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/python/python-horizontal.svg" alt="python" width="100" height="48"/> </a> 
+<a href="#" target="_blank"> <img src="https://github.com/cmakkaya/cmakkaya/blob/main/git-bash.svg" alt="python" width="100" height="48"/> </a> 
 <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg" alt="Linux"  height="48"/> </a> 
 <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" alt="git"  height="48"/> </a> 
 <a href="#" target="_blank"> <img src="https://1000logos.net/wp-content/uploads/2018/11/GitHub-logo.jpg" alt="github" height="48"/> </a>
