@@ -6,7 +6,7 @@
 <img align="right" src="https://github.com/cmakkaya/cmakkaya/blob/main/DevOpsMan.gif" width="270"/>
 
 <p>
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=f80321&size=28&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Cloud+/+DevOps+Engineer,;I'm+interested+in+DevSecOps,;I'm+love+learning+about+them.;" /></a>
+  <a href="https://github.com/cmakkaya?tab=repositories"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=f80321&size=28&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Cloud+/+DevOps+Engineer,;I'm+interested+in+DevSecOps,;I'm+love+learning+about+them.;" /></a>
 </p>
 <!--
 
