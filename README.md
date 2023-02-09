@@ -31,9 +31,10 @@
   - :pencil2: [Medium Articles](https://cmakkaya.medium.com/)
   - :pencil2: [Wordpress Articles](https://cloudplatformsanddevops.wordpress.com/)
   - 🌐 [LinkedIn](https://www.linkedin.com/in/cumhurakkaya/) 
+  - <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="gitlab" height="21"/> </a> [GitLab](https://gitlab.com/cmakkaya/)
   - :office: [Portfolio/Resume Page](http://portfolio.cmakkaya-awsdevops.link/)
   - 📺:[YouTube](https://www.youtube.com/channel/UCWcRIvy70tBBfrmBocDR5hA)
-
+ 
 ## 🚴 Skills 💻 
 <p>
 <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" alt="AWS" width="70" height="48"/> </a> 
