@@ -22,7 +22,7 @@
 ## I'm Cumhur Mesut AKKAYA 👋 
 
 - :earth_africa: My cloud life started almost 2 years ago when I joined the Clarusway AWS/DevOps course. I already loved IT world and improve myself in this field. 
-- 💬 In my github repository, I am adding my projects here to reach them when I need, and also maybe they can be helpful for others.
+- 💬 In my github repository, I am adding my projects here to reach them when I need them, and also maybe they can be helpful for others.
 - 🌱 I’m dedicated to lifelong learning, to my three children and to my unique wife.
 - 🥅 2023 Goals: Learn more about DevSecOps and Cloud (Azure and GCP).
 - 😻 Fun fact: I love to read, search and write about IT especially Cloud, DevOps and DevSecOps. Besides this, I love to walk, ride and fish.
