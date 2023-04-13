@@ -23,17 +23,17 @@
 
 - :earth_africa: My cloud life started almost 2 years ago when I joined the Clarusway AWS/DevOps course. I already loved IT world and improve myself in this field. 
 - 💬 In my github repository, I am adding my projects here to reach them when I need them, and also maybe they can be helpful for others.
-- 🌱 I’m dedicated to lifelong learning, to my three children and to my unique wife.
 - 🥅 2023 Goals: Learn more about DevSecOps and Cloud (Azure and GCP).
 - 😻 Fun fact: I love to read, search and write about IT especially Cloud, DevOps and DevSecOps. Besides this, I love to walk, ride and fish.
+- 🌱 I’m dedicated to lifelong learning, to my three children and to my unique wife.
 
 ## 🔗 &nbsp;**Connect with me**  📫  You can learn more about me.
   - :pencil2: [Medium Articles](https://cmakkaya.medium.com/)
-  - :pencil2: [Wordpress Articles](https://cloudplatformsanddevops.wordpress.com/)
+ - 📺:[YouTube](https://www.youtube.com/channel/UCWcRIvy70tBBfrmBocDR5hA) 
   - 🌐 [LinkedIn](https://www.linkedin.com/in/cumhurakkaya/) 
   - <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="gitlab" height="21"/> </a> [GitLab](https://gitlab.com/cmakkaya/)
   - :office: [Portfolio/Resume Page](http://portfolio.cmakkaya-awsdevops.link/)
-  - 📺:[YouTube](https://www.youtube.com/channel/UCWcRIvy70tBBfrmBocDR5hA)
+  - :pencil2: [Wordpress Articles](https://cloudplatformsanddevops.wordpress.com/)
  
 ## 🚴 Skills 💻 
 <p>
