@@ -21,7 +21,7 @@
 
 ## I'm Cumhur Mesut AKKAYA 👋 
 
-- 🌍 My cloud life started with a 10-months (552+ hours) intensive training program, intensely experiencing all the necessary skills about AWS Cloud and DevOps technologies. Then, I went through a 3-month intensive certification process, and at the end of this process, I got Terraform(x1) and AWS(x3) certificates. I already loved the IT world and improve myself in this field.
+- 🌍 My cloud life started with a 10-months (552+ hours) intensive training program, intensely experiencing all the necessary skills about AWS Cloud and DevOps technologies. Then, I went through a 3-months intensive certification process, and at the end of this process, I got Terraform(x1) and AWS(x3) certificates. I already loved the IT world and improve myself in this field.
 - 📖 I publish my articles about Cloud and DevOps especially Security on [Medium](https://cmakkaya.medium.com/)
 - 💬 In my GitHub repository, I am adding my projects here to reach them when I need them, and also maybe they can be helpful to others.
 - 🥅 2023 Goals: Learn more about DevSecOps and Cloud (Azure and GCP).
