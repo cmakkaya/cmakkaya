@@ -59,8 +59,36 @@
 <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/slack/slack-ar21.svg" alt="Slack" height="48"/> </a>
 </p>
 
+## My Latest Medium Articles 
+- [📝 Working with Microservices-12: Setting Domain Name and TLS certificate for Production Pipeline using Route 53, Let’s Encrypt and Cert Manager](https://medium.com/@cmakkaya/working-with-microservices-12-setting-domain-name-and-tls-certificate-for-production-pipeline-649aef11924d)
+- [📝 Working with Microservices-10: Explanation of the Production Stage and Creating Amazon EKS cluster for the “Production Environment and Pipeline” in order to deploy the Microservices App into it.](https://cmakkaya.medium.com/working-with-microservices-10-explanation-of-the-production-stage-and-creating-amazon-eks-cluster-f202558ca4fb)
+- [📝 Working with Microservices-9: Preparing the staging pipeline in Jenkins, and deploying the microservices app to the Kubernetes cluster using Rancher, Helm, Maven, Amazon ECR, and Amazon S3. Part-2](https://cmakkaya.medium.com/working-with-microservices-9-preparing-the-staging-pipeline-in-jenkins-and-deploying-the-270f4770a723)
+- [📝 Working with Microservices-8: Preparing the staging pipeline in Jenkins, and deploying the microservices app to the Kubernetes cluster using Rancher, Helm, Maven, Amazon ECR, and Amazon S3. Part-1](https://cmakkaya.medium.com/working-with-microservices-8-preparing-the-staging-pipeline-in-jenkins-and-deploying-the-a86cde2e2605)
+- [📝 Working with Microservices-7: Creating a cluster for microservices application by using Rancher](https://cmakkaya.medium.com/working-with-microservices-7-creating-a-cluster-for-microservices-application-by-using-rancher-c9e3cba07d92)
+
+## My Popular Medium Articles
+- [📝 Working with sensitive data-2: Using AWS Parameter Store and Ansible Vault together](https://cmakkaya.medium.com/working-with-sensitive-data-2-using-aws-parameter-store-and-ansible-vault-together-1f09b8f5c3b7)
+- [📝 How to secure our resources from DDoS attacks with AWS WAF & Shield?](https://cmakkaya.medium.com/how-to-secure-our-resources-from-doos-attacks-with-aws-waf-shield-5307c85cb476)
+- [📝 GitLab CI/CD - 1 : Building a Java Project using Maven and Docker within the GitLab CI pipeline.](https://cmakkaya.medium.com/gitlab-ci-cd-1-building-a-java-project-using-maven-and-docker-within-the-gitlab-ci-pipeline-278feaf7ee12)
+- [📝 GitHub Actions-1 : Creating CI/CD pipeline for Java application, and building and pushing it to Docker Hub using GitHub Actions](https://cmakkaya.medium.com/github-actions-1-creating-ci-cd-pipeline-for-java-application-and-building-and-pushing-it-to-21aec5af9f9c)
+- [📝 AWS Developer Tools-1: Automatic deploying a Blog page from GitHub to Amazon S3 in CI/CD pipeline using AWS CodePipeline](https://cmakkaya.medium.com/aws-developer-tools-1-automatic-deploying-a-blog-page-from-github-to-amazon-s3-in-ci-cd-pipeline-89e494427174)
+- [📝 Creating a CI/CD Jenkins Pipeline with GitHub Webhook that runs automatically the Production Stage via Amazon ECS- Fargate, and Amazon ECR.](https://cmakkaya.medium.com/creating-a-full-ci-cd-jenkins-pipeline-with-github-webhook-that-runs-the-production-stage-via-2de40e1aef92)
+- [📝 How to reset the initialing passwords of DevOps tools (Jenkins, Rancher, Nexus, etc.) or get the bootstrap password manually?](https://cmakkaya.medium.com/how-to-reset-the-initialing-passwords-of-devops-tools-jenkins-rancher-nexus-etc-e1de341d9e7a)
+- [📝 Working with Microservices-1: Running a Java app that consists of 10 Microservice on a Development server.](https://cmakkaya.medium.com/working-with-microservices-1-running-a-java-app-that-consists-of-10-microservice-on-a-development-5de2f2b3c758)
+- [📝 Copying the Rancher cluster’s “KubeConfig” file into Jenkins server using Rancher or VScode](https://cmakkaya.medium.com/copying-the-rancher-clusters-kubeconfig-file-to-jenkins-using-rancher-or-vscode-40acf8d6fe8c)
+- [📝 Nexus-1: Setting up (with Terraform or Manuel) and Using Nexus (Building Java app with Maven using Nexus).](https://cmakkaya.medium.com/nexus-1-installing-with-terraform-or-manuel-and-using-nexus-building-java-app-with-maven-using-f46aad6efff7)
+- [📝 You should definitely try: Great convenience auto-connect to our EC2 instance using VScode](https://cmakkaya.medium.com/you-should-definitely-try-great-convenience-auto-connect-to-our-ec2-instance-using-vscode-a1cd0ab47678)
+- [📝 Rancher-1: Creating the Rancher server with manual installation or using terraform file and Running Rancher in it.](https://cmakkaya.medium.com/rancher-1-deploying-rancher-with-manuel-installation-or-using-terraform-file-57cb4a7c9be4)
+- [📝 AWS EC2 Instance Connect Endpoint: New feature, Great convenience, Its installation step by step](https://cmakkaya.medium.com/aws-instance-connect-endpoint-new-feature-great-easiness-its-installation-step-by-step-730074ab8940)
+- [📝 Using a private GitHub repository with a “GitHub Personal Access Token” in the Jenkins pipeline that runs automatically the development stage via Amazon ECR and Docker container.](https://cmakkaya.medium.com/using-a-private-github-repository-with-a-github-personal-access-token-in-the-jenkins-pipeline-3f3755725fd1)
+- [📝 One of the easiest ways to build and run Javascript applications for testing before the production stage: Using the “Docker Plugin” as an agent in Jenkins.](https://cmakkaya.medium.com/easily-build-and-run-java-script-applications-using-docker-plugin-as-an-agent-in-jenkins-for-b4e3458dc4f3)
+- [📝 Creating a Load Test using BashScript and Trying on a website protected by AWS WAF](https://cmakkaya.medium.com/creating-a-load-test-using-bashscript-and-trying-on-a-website-protected-by-aws-waf-6815d561bdd8)
+
 ## <p> 
 🚌 There are documents(class-notes, hands-on, projects and inclass-slides) in the repositories below, that I used throughout  [my AWS/DevOps journey](https://github.com/cmakkaya)  while learning different `AWS Services`, `DevOps Tools` `and other tools` `(Linux, Network, Bash Scripting, VScode-Vim-Nano)`.
+- [📝 Working with Microservices-12: Setting Domain Name and TLS certificate for Production Pipeline using Route 53, Let’s Encrypt and Cert Manager]([https://www.linkedin.com/in/cumhurakkaya/](https://medium.com/@cmakkaya/working-with-microservices-12-setting-domain-name-and-tls-certificate-for-production-pipeline-649aef11924d))
+- [📝 Working with Microservices-12: Setting Domain Name and TLS certificate for Production Pipeline using Route 53, Let’s Encrypt and Cert Manager]([https://www.linkedin.com/in/cumhurakkaya/](https://medium.com/@cmakkaya/working-with-microservices-12-setting-domain-name-and-tls-certificate-for-production-pipeline-649aef11924d))
+- [📝 Working with Microservices-12: Setting Domain Name and TLS certificate for Production Pipeline using Route 53, Let’s Encrypt and Cert Manager]([https://www.linkedin.com/in/cumhurakkaya/](https://medium.com/@cmakkaya/working-with-microservices-12-setting-domain-name-and-tls-certificate-for-production-pipeline-649aef11924d))
 
   | Repository Name | Description  |
   | ------ | ------ |
