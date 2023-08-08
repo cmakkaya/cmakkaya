@@ -59,14 +59,14 @@
 <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/slack/slack-ar21.svg" alt="Slack" height="48"/> </a>
 </p>
 
-## My Latest Medium Articles 
+## 📗 My Latest Medium Articles 
 - [📝 Working with Microservices-12: Setting Domain Name and TLS certificate for Production Pipeline using Route 53, Let’s Encrypt and Cert Manager](https://medium.com/@cmakkaya/working-with-microservices-12-setting-domain-name-and-tls-certificate-for-production-pipeline-649aef11924d)
 - [📝 Working with Microservices-10: Explanation of the Production Stage and Creating Amazon EKS cluster for the “Production Environment and Pipeline” in order to deploy the Microservices App into it.](https://cmakkaya.medium.com/working-with-microservices-10-explanation-of-the-production-stage-and-creating-amazon-eks-cluster-f202558ca4fb)
 - [📝 Working with Microservices-9: Preparing the staging pipeline in Jenkins, and deploying the microservices app to the Kubernetes cluster using Rancher, Helm, Maven, Amazon ECR, and Amazon S3. Part-2](https://cmakkaya.medium.com/working-with-microservices-9-preparing-the-staging-pipeline-in-jenkins-and-deploying-the-270f4770a723)
 - [📝 Working with Microservices-8: Preparing the staging pipeline in Jenkins, and deploying the microservices app to the Kubernetes cluster using Rancher, Helm, Maven, Amazon ECR, and Amazon S3. Part-1](https://cmakkaya.medium.com/working-with-microservices-8-preparing-the-staging-pipeline-in-jenkins-and-deploying-the-a86cde2e2605)
 - [📝 Working with Microservices-7: Creating a cluster for microservices application by using Rancher](https://cmakkaya.medium.com/working-with-microservices-7-creating-a-cluster-for-microservices-application-by-using-rancher-c9e3cba07d92)
 
-## My Popular Medium Articles
+## 📗 My Popular Medium Articles
 - [📝 Working with sensitive data-2: Using AWS Parameter Store and Ansible Vault together](https://cmakkaya.medium.com/working-with-sensitive-data-2-using-aws-parameter-store-and-ansible-vault-together-1f09b8f5c3b7)
 - [📝 How to secure our resources from DDoS attacks with AWS WAF & Shield?](https://cmakkaya.medium.com/how-to-secure-our-resources-from-doos-attacks-with-aws-waf-shield-5307c85cb476)
 - [📝 GitLab CI/CD - 1 : Building a Java Project using Maven and Docker within the GitLab CI pipeline.](https://cmakkaya.medium.com/gitlab-ci-cd-1-building-a-java-project-using-maven-and-docker-within-the-gitlab-ci-pipeline-278feaf7ee12)
