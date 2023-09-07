@@ -22,16 +22,16 @@
 ## I'm Cumhur Mesut AKKAYA 👋 
 
 - 🌍 My cloud life started with a 10-months (552+ hours) intensive training program, intensely experiencing all the necessary skills about AWS Cloud and DevOps technologies. Then, I went through a 3-months intensive certification process, and at the end of this process, I got Terraform(x1) and AWS(x3) certificates. I already loved the IT world and improve myself in this field.
-- 📖 I publish my articles about Cloud and DevOps especially Security on [Medium](https://cmakkaya.medium.com/)
+- 📖 I publish my articles about Cloud and DevOps especially Security and CI/CD pipelines on [Medium](https://cmakkaya.medium.com/)
 - 💬 In my GitHub repository, I am adding my projects here to reach them when I need them, and also maybe they can be helpful to others.
-- 🥅 2023 Goals: Learn more about DevSecOps and Cloud (Azure and GCP).
+- 🥅 2024 Goals: Learn more about DevSecOps and Cloud (Azure and GCP).
 - 😻 Fun fact: I love to read, search and write about Cloud/DevOps. Besides this, I love to walk, ride, and fish.
 - 🌱 I’m dedicated to lifelong learning, to my three children, and to my unique wife.
 
 ## 🔗 &nbsp;**Connect with me**  📫  You can learn more about me.
   - :pencil2: [Medium Articles](https://cmakkaya.medium.com/)
- - 📺:[YouTube](https://www.youtube.com/channel/UCWcRIvy70tBBfrmBocDR5hA) 
   - 🌐 [LinkedIn](https://www.linkedin.com/in/cumhurakkaya/) 
+  - 📺:[YouTube](https://www.youtube.com/channel/UCWcRIvy70tBBfrmBocDR5hA) 
   - <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="gitlab" height="21"/> </a> [GitLab](https://gitlab.com/cmakkaya/)
   - <img src="https://upload.vectorlogo.zone/logos/bitbucket/images/11915f2e-3287-46b6-a81d-0daad8160e11.svg" alt="Bitbucket" height="21"/> </a> [Bitbucket](https://bitbucket.org/cumhurshop/workspace/repositories/)
   - :office: [Portfolio/Resume Page](http://portfolio.cmakkaya-awsdevops.link/)
