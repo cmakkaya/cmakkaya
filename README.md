@@ -68,7 +68,8 @@
 - [📝 Amazon Cognito-3: CSI- Troubleshooting in Amazon Cognito’s Errors](https://medium.com/@cmakkaya/amazon-cognito-csi-troubleshooting-in-amazon-cognitos-errors-8e5f9dc8a8ee)
 - [📝 Azure DevOps Services-3: Troubleshooting in Errors of Azure Pipelines: ##[error]No hosted parallelism has been purchased or granted. To request a free parallelism grant.](https://medium.com/@cmakkaya/azure-devops-services-3-troubleshooting-in-errors-of-azure-pipelines-fc16d541a287) 
 - [📝 Git/GitHub 1- Reverting the our repository to a old commit on both GitHub and Local repository.](https://cmakkaya.medium.com/git-github-1-reverting-the-our-repository-to-a-old-commit-on-both-github-and-local-repository-8e66abcaf128) 
-- [📝 Working with Microservices-15: Importing Amazon EKS cluster to Rancher in the Production Stage](https://cmakkaya.medium.com/working-with-microservices-15-importing-amazon-eks-cluster-to-rancher-in-the-production-stage-c1726b817505) 
+- [📝 Working with Microservices-15: Importing Amazon EKS cluster to Rancher in the Production Stage](https://cmakkaya.medium.com/working-with-microservices-15-importing-amazon-eks-cluster-to-rancher-in-the-production-stage-c1726b817505)
+- [📝 Working with Microservices-16: Preparing and Running The Production Jenkins File and Pipeline, Examining the output of the Jenkins Pipeline Using Rancher and our Browser](https://medium.com/@cmakkaya/working-with-microservices-16-preparing-and-running-the-production-jenkins-file-and-pipeline-a545ea7590ef) 
 
 ## 📗 My Popular Medium Articles
 - [📝 Working with Sensitive Data-2: Using AWS Parameter Store and Ansible Vault together](https://cmakkaya.medium.com/working-with-sensitive-data-2-using-aws-parameter-store-and-ansible-vault-together-1f09b8f5c3b7)
