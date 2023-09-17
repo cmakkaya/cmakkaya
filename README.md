@@ -29,9 +29,9 @@
 - 🌱 I’m dedicated to lifelong learning, to my three children, and to my unique wife.
 
 ## 🔗 &nbsp;**Connect with me**  📫  You can learn more about me.
-  - :pencil2: [Medium Articles](https://cmakkaya.medium.com/)
-  - 🌐 [LinkedIn](https://www.linkedin.com/in/cumhurakkaya/) 
-  - 📺:[YouTube](https://www.youtube.com/channel/UCWcRIvy70tBBfrmBocDR5hA) 
+  - <img src="https://upload.vectorlogo.zone/logos/medium/images/43c41ba8-9de2-453d-92dc-500dab4e316a.svg" alt="Medium Articles" height="21"/> </a> [Medium Articles](https://www.linkedin.com/in/cumhurakkaya/)
+  - <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn" height="21"/> </a> [LinkedIn](https://www.linkedin.com/in/cumhurakkaya/)
+  - <img src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="YouTube" height="21"/> </a> [YouTube](https://www.youtube.com/channel/UCWcRIvy70tBBfrmBocDR5hA) 
   - <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="gitlab" height="21"/> </a> [GitLab](https://gitlab.com/cmakkaya/)
   - <img src="https://upload.vectorlogo.zone/logos/bitbucket/images/11915f2e-3287-46b6-a81d-0daad8160e11.svg" alt="Bitbucket" height="21"/> </a> [Bitbucket](https://bitbucket.org/cumhurshop/workspace/repositories/)
   - :office: [Portfolio/Resume Page](http://portfolio.cmakkaya-awsdevops.link/)
@@ -62,7 +62,7 @@
 </p>
 
 ## 📗 My Latest Medium Articles 
-- [📝 Bitbucket-1: Creating a Bitbucket Repository and Adding our Project files to the New Repository Using VS Code](https://cmakkaya.medium.com/bitbucket-1-creating-a-bitbucket-repository-and-adding-our-project-files-to-the-new-repository-2c4267bf5b46)
+- [📝 Bitbucket-2: Deploying a Web App to S3 Bucket and CloudFront By Using CI/CD Bitbucket Pipeline](https://medium.com/@cmakkaya/bitbucket-2-deploying-a-web-app-to-s3-bucket-and-cloudfront-by-using-ci-cd-bitbucket-pipeline-affc9cc15d95)
 - [📝 Docker Desktop-4: Docker Hub authorization for Docker Desktop and Pushing a image from Docker Desktop to Docker Hub.](https://cmakkaya.medium.com/docker-desktop-4-docker-hub-authorization-for-docker-desktop-and-pushing-a-image-from-docker-c2babb61a559)
 - [📝 Working Database: Step 5- CSI: Troubleshooting in Microsoft SQL Server containers](https://cmakkaya.medium.com/step-5-csi-troubleshooting-in-microsoft-sql-server-containers-e5c5449443dd)
 - [📝 Amazon Cognito-3: CSI- Troubleshooting in Amazon Cognito’s Errors](https://medium.com/@cmakkaya/amazon-cognito-csi-troubleshooting-in-amazon-cognitos-errors-8e5f9dc8a8ee)
@@ -81,6 +81,7 @@
 - [📝 Azure DevOps Services-1: Building an application in the GitHub repository using Azure Pipelines.](https://cmakkaya.medium.com/azure-devops-services-1-building-an-application-in-the-github-repository-using-azure-pipelines-e220a6d0c9a7)
 - [📝 Docker Desktop-3: Deploying a Java based Veterinarian Clinic Web App and its MySql DataBase to the Docker Desktop Kubernetes Cluster by using Kubernetes manifesto yaml files](https://medium.com/@cmakkaya/docker-desktop-3-deploying-a-java-based-veterinarian-clinic-web-app-and-its-mysql-database-to-the-ac6609a49fa8)
 - [📝 How to reset the initialing passwords of DevOps tools (Jenkins, Rancher, Nexus, etc.) or get the bootstrap password manually?](https://cmakkaya.medium.com/how-to-reset-the-initialing-passwords-of-devops-tools-jenkins-rancher-nexus-etc-e1de341d9e7a)
+- [📝 Bitbucket-1: Creating a Bitbucket Repository and Adding our Project files to the New Repository Using VS Code](https://cmakkaya.medium.com/bitbucket-1-creating-a-bitbucket-repository-and-adding-our-project-files-to-the-new-repository-2c4267bf5b46)
 - [📝 Working with Microservices-1: Running a Java app that consists of 10 Microservice on a Development server.](https://cmakkaya.medium.com/working-with-microservices-1-running-a-java-app-that-consists-of-10-microservice-on-a-development-5de2f2b3c758)
 - [📝 Amazon Cognito-1: Creating Cognito User Pools for authentication, and Connecting to an Application by using it.](https://cmakkaya.medium.com/amazon-cognito-1-creating-cognito-user-pools-for-authentication-and-connecting-to-an-application-99f8c5388205)
 - [📝 Copying the Rancher cluster’s “KubeConfig” file into Jenkins server using Rancher or VScode](https://cmakkaya.medium.com/copying-the-rancher-clusters-kubeconfig-file-to-jenkins-using-rancher-or-vscode-40acf8d6fe8c)
@@ -99,6 +100,13 @@
 - [📝 Working with Microservices-7: Creating a cluster for microservices application by using Rancher](https://cmakkaya.medium.com/working-with-microservices-7-creating-a-cluster-for-microservices-application-by-using-rancher-c9e3cba07d92)
 - [📝 Working with Microservices-12: Setting Domain Name and TLS certificate for Production Pipeline using Route 53, Let’s Encrypt and Cert Manager](https://medium.com/@cmakkaya/working-with-microservices-12-setting-domain-name-and-tls-certificate-for-production-pipeline-649aef11924d)
 - [📝 Working with Microservices-14: Creating Amazon RDS MySQL database for Kubernetes cluster in the Production stage.](https://medium.com/@cmakkaya/working-with-microservices-14-creating-amazon-rds-mysql-database-for-kubernetes-cluster-in-the-5771a6208469)
+
+## 📗 For my other Medium articles
+- [📝 My Other Medium Articles.](https://medium.com/@cmakkaya)
+
+## 📗 For my Youtube Videos
+- [📝 My Youtube Videos.](https://www.youtube.com/channel/UCWcRIvy70tBBfrmBocDR5hA)
+
 
 ## <p> 
 🚌 There are documents(class-notes, hands-on, projects and inclass-slides) in the repositories below, that I used throughout  [my AWS/DevOps journey](https://github.com/cmakkaya)  while learning different `AWS Services`, `DevOps Tools` `and other tools` `(Linux, Network, Bash Scripting, VScode-Vim-Nano)`.
