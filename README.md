@@ -29,8 +29,8 @@
 - 🌱 I’m dedicated to lifelong learning, to my three children, and to my unique wife.
 
 ## 🔗 &nbsp;**Connect with me**  📫  You can learn more about me.
-  - <img src="https://upload.vectorlogo.zone/logos/medium/images/43c41ba8-9de2-453d-92dc-500dab4e316a.svg" alt="Medium Articles" height="21"/> </a> [Medium Articles](https://www.linkedin.com/in/cumhurakkaya/)
   - <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn" height="21"/> </a> [LinkedIn](https://www.linkedin.com/in/cumhurakkaya/)
+  - <img src="https://upload.vectorlogo.zone/logos/medium/images/43c41ba8-9de2-453d-92dc-500dab4e316a.svg" alt="Medium Articles" height="21"/> </a> [Medium Articles](https://www.linkedin.com/in/cumhurakkaya/)
   - <img src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="YouTube" height="21"/> </a> [YouTube](https://www.youtube.com/channel/UCWcRIvy70tBBfrmBocDR5hA) 
   - <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="gitlab" height="21"/> </a> [GitLab](https://gitlab.com/cmakkaya/)
   - <img src="https://upload.vectorlogo.zone/logos/bitbucket/images/11915f2e-3287-46b6-a81d-0daad8160e11.svg" alt="Bitbucket" height="21"/> </a> [Bitbucket](https://bitbucket.org/cumhurshop/workspace/repositories/)
