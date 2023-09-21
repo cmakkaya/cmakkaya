@@ -74,9 +74,10 @@
 </p>
 
 ## 📗 My Latest Medium Articles 
+- [📝 Working with Database-MongoDB (1): Creating a Database with MongoDB Atlas](https://cmakkaya.medium.com/working-database-mongodb-1-creating-a-database-with-mongodb-atlas-4ef48cec4c52)
 - [📝 Bitbucket-2: Deploying a Web App to S3 Bucket and CloudFront By Using CI/CD Bitbucket Pipeline](https://medium.com/@cmakkaya/bitbucket-2-deploying-a-web-app-to-s3-bucket-and-cloudfront-by-using-ci-cd-bitbucket-pipeline-affc9cc15d95)
 - [📝 Docker Desktop-4: Docker Hub authorization for Docker Desktop and Pushing a image from Docker Desktop to Docker Hub.](https://cmakkaya.medium.com/docker-desktop-4-docker-hub-authorization-for-docker-desktop-and-pushing-a-image-from-docker-c2babb61a559)
-- [📝 Working Database: Step 5- CSI: Troubleshooting in Microsoft SQL Server containers](https://cmakkaya.medium.com/step-5-csi-troubleshooting-in-microsoft-sql-server-containers-e5c5449443dd)
+- [📝 Working with Database: Step 5- CSI: Troubleshooting in Microsoft SQL Server containers](https://cmakkaya.medium.com/step-5-csi-troubleshooting-in-microsoft-sql-server-containers-e5c5449443dd)
 - [📝 Amazon Cognito-3: CSI- Troubleshooting in Amazon Cognito’s Errors](https://medium.com/@cmakkaya/amazon-cognito-csi-troubleshooting-in-amazon-cognitos-errors-8e5f9dc8a8ee)
 - [📝 Azure DevOps Services-3: Troubleshooting in Errors of Azure Pipelines: ##[error]No hosted parallelism has been purchased or granted. To request a free parallelism grant.](https://medium.com/@cmakkaya/azure-devops-services-3-troubleshooting-in-errors-of-azure-pipelines-fc16d541a287) 
 - [📝 Git/GitHub 1- Reverting the our repository to a old commit on both GitHub and Local repository.](https://cmakkaya.medium.com/git-github-1-reverting-the-our-repository-to-a-old-commit-on-both-github-and-local-repository-8e66abcaf128) 
@@ -91,6 +92,7 @@
 - [📝 AWS Developer Tools-1: Automatic deploying a Blog page from GitHub to Amazon S3 in CI/CD pipeline using AWS CodePipeline](https://cmakkaya.medium.com/aws-developer-tools-1-automatic-deploying-a-blog-page-from-github-to-amazon-s3-in-ci-cd-pipeline-89e494427174)
 - [📝 Creating a CI/CD Jenkins Pipeline with GitHub Webhook that runs automatically the Production Stage via Amazon ECS- Fargate, and Amazon ECR.](https://cmakkaya.medium.com/creating-a-full-ci-cd-jenkins-pipeline-with-github-webhook-that-runs-the-production-stage-via-2de40e1aef92)
 - [📝 Azure DevOps Services-1: Building an application in the GitHub repository using Azure Pipelines.](https://cmakkaya.medium.com/azure-devops-services-1-building-an-application-in-the-github-repository-using-azure-pipelines-e220a6d0c9a7)
+- [📝 Working with Database-1: Introduction Microsoft SQL Server and Explanation of what we will do in this series of articles.](https://cmakkaya.medium.com/working-database-1-introduction-microsoft-sql-server-and-explanation-of-what-we-will-do-in-this-105bebf66a55)
 - [📝 Docker Desktop-3: Deploying a Java based Veterinarian Clinic Web App and its MySql DataBase to the Docker Desktop Kubernetes Cluster by using Kubernetes manifesto yaml files](https://medium.com/@cmakkaya/docker-desktop-3-deploying-a-java-based-veterinarian-clinic-web-app-and-its-mysql-database-to-the-ac6609a49fa8)
 - [📝 How to reset the initialing passwords of DevOps tools (Jenkins, Rancher, Nexus, etc.) or get the bootstrap password manually?](https://cmakkaya.medium.com/how-to-reset-the-initialing-passwords-of-devops-tools-jenkins-rancher-nexus-etc-e1de341d9e7a)
 - [📝 Bitbucket-1: Creating a Bitbucket Repository and Adding our Project files to the New Repository Using VS Code](https://cmakkaya.medium.com/bitbucket-1-creating-a-bitbucket-repository-and-adding-our-project-files-to-the-new-repository-2c4267bf5b46)
