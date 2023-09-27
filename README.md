@@ -74,6 +74,8 @@
 </p>
 
 ## 📗 My Latest Medium Articles 
+- [📝 Database Migration-2: Migrating MySQL Database to Amazon RDS by using AWS Database Migration Services (AWS DMS).](https://cmakkaya.medium.com/database-migration-2-migrating-mysql-database-to-amazon-rds-by-using-aws-database-migration-22a7dddd767d)
+- [📝 Database Migration-1: The Database Migration Strategies, Terms, Solutions, and AWS Database Migration Service (AWS DMS).](https://cmakkaya.medium.com/database-migration-1-the-database-migration-strategies-terms-solutions-and-aws-database-9cc1b75dd694)
 - [📝 Working with Database-MongoDB (1): Creating a Database with MongoDB Atlas](https://cmakkaya.medium.com/working-database-mongodb-1-creating-a-database-with-mongodb-atlas-4ef48cec4c52)
 - [📝 Bitbucket-2: Deploying a Web App to S3 Bucket and CloudFront By Using CI/CD Bitbucket Pipeline](https://medium.com/@cmakkaya/bitbucket-2-deploying-a-web-app-to-s3-bucket-and-cloudfront-by-using-ci-cd-bitbucket-pipeline-affc9cc15d95)
 - [📝 Docker Desktop-4: Docker Hub authorization for Docker Desktop and Pushing a image from Docker Desktop to Docker Hub.](https://cmakkaya.medium.com/docker-desktop-4-docker-hub-authorization-for-docker-desktop-and-pushing-a-image-from-docker-c2babb61a559)
@@ -92,6 +94,7 @@
 - [📝 AWS Developer Tools-1: Automatic deploying a Blog page from GitHub to Amazon S3 in CI/CD pipeline using AWS CodePipeline](https://cmakkaya.medium.com/aws-developer-tools-1-automatic-deploying-a-blog-page-from-github-to-amazon-s3-in-ci-cd-pipeline-89e494427174)
 - [📝 Creating a CI/CD Jenkins Pipeline with GitHub Webhook that runs automatically the Production Stage via Amazon ECS- Fargate, and Amazon ECR.](https://cmakkaya.medium.com/creating-a-full-ci-cd-jenkins-pipeline-with-github-webhook-that-runs-the-production-stage-via-2de40e1aef92)
 - [📝 Azure DevOps Services-1: Building an application in the GitHub repository using Azure Pipelines.](https://cmakkaya.medium.com/azure-devops-services-1-building-an-application-in-the-github-repository-using-azure-pipelines-e220a6d0c9a7)
+- [📝 Database Migration-2: Migrating MySQL Database to Amazon RDS by using AWS Database Migration Services (AWS DMS).](https://cmakkaya.medium.com/database-migration-2-migrating-mysql-database-to-amazon-rds-by-using-aws-database-migration-22a7dddd767d)
 - [📝 Working with Database-1: Introduction Microsoft SQL Server and Explanation of what we will do in this series of articles.](https://cmakkaya.medium.com/working-database-1-introduction-microsoft-sql-server-and-explanation-of-what-we-will-do-in-this-105bebf66a55)
 - [📝 Docker Desktop-3: Deploying a Java based Veterinarian Clinic Web App and its MySql DataBase to the Docker Desktop Kubernetes Cluster by using Kubernetes manifesto yaml files](https://medium.com/@cmakkaya/docker-desktop-3-deploying-a-java-based-veterinarian-clinic-web-app-and-its-mysql-database-to-the-ac6609a49fa8)
 - [📝 How to reset the initialing passwords of DevOps tools (Jenkins, Rancher, Nexus, etc.) or get the bootstrap password manually?](https://cmakkaya.medium.com/how-to-reset-the-initialing-passwords-of-devops-tools-jenkins-rancher-nexus-etc-e1de341d9e7a)
