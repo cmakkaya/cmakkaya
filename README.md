@@ -74,6 +74,7 @@
 </p>
 
 ## 📗 My Latest Medium Articles 
+- [📝 AWS Amplify-1: Web Hosting Flutter Application Using AWS Amplify.](https://medium.com/@cmakkaya/aws-amplify-1-web-hosting-flutter-application-using-aws-amplify-1c7ba08dd1c4)
 - [📝 Database Migration-2: Migrating MySQL Database to Amazon RDS by using AWS Database Migration Services (AWS DMS).](https://cmakkaya.medium.com/database-migration-2-migrating-mysql-database-to-amazon-rds-by-using-aws-database-migration-22a7dddd767d)
 - [📝 Database Migration-1: The Database Migration Strategies, Terms, Solutions, and AWS Database Migration Service (AWS DMS).](https://cmakkaya.medium.com/database-migration-1-the-database-migration-strategies-terms-solutions-and-aws-database-9cc1b75dd694)
 - [📝 Working with Database-MongoDB (1): Creating a Database with MongoDB Atlas](https://cmakkaya.medium.com/working-database-mongodb-1-creating-a-database-with-mongodb-atlas-4ef48cec4c52)
