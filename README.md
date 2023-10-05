@@ -74,6 +74,8 @@
 </p>
 
 ## 📗 My Latest Medium Articles 
+- [📝 Cost Optimization on AWS EC2 and Database Instances Using AWS Lambda and Amazon EventBridge - 2.](https://cmakkaya.medium.com/cost-optimization-on-aws-ec2-and-database-instances-using-aws-lambda-and-amazon-eventbridge-2-faf0b6e59410#c42a)
+- [📝 Cost Optimization on AWS EC2 and Database Instances Using AWS Lambda and Amazon EventBridge - 1.](https://cmakkaya.medium.com/cost-optimization-on-aws-ec2-and-database-instances-using-aws-lambda-and-amazon-eventbridge-1-33636da0eca9)
 - [📝 AWS Amplify-1: Web Hosting Flutter Application Using AWS Amplify.](https://medium.com/@cmakkaya/aws-amplify-1-web-hosting-flutter-application-using-aws-amplify-1c7ba08dd1c4)
 - [📝 Database Migration-2: Migrating MySQL Database to Amazon RDS by using AWS Database Migration Services (AWS DMS).](https://cmakkaya.medium.com/database-migration-2-migrating-mysql-database-to-amazon-rds-by-using-aws-database-migration-22a7dddd767d)
 - [📝 Database Migration-1: The Database Migration Strategies, Terms, Solutions, and AWS Database Migration Service (AWS DMS).](https://cmakkaya.medium.com/database-migration-1-the-database-migration-strategies-terms-solutions-and-aws-database-9cc1b75dd694)
