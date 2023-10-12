@@ -74,6 +74,8 @@
 </p>
 
 ## 📗 My Latest Medium Articles 
+- [📝 Kubernetes: Creating and Testing a Horizontal Pod Autoscaling (HPA) in Kubernetes Cluster.](https://cmakkaya.medium.com/kubernetes-creating-and-testing-a-horizontal-pod-autoscaling-hpa-in-kubernetes-cluster-548f2378f0c3)
+- [📝 What are an API and Amazon API Gateway? Creating and Using a REST API with Amazon API Gateway.](https://cmakkaya.medium.com/what-is-an-api-and-the-amazon-api-gateway-creating-and-using-a-rest-api-with-amazon-api-gateway-d1b42cbb1037)
 - [📝 Cost Optimization on AWS EC2 and Database Instances Using AWS Lambda and Amazon EventBridge - 2.](https://cmakkaya.medium.com/cost-optimization-on-aws-ec2-and-database-instances-using-aws-lambda-and-amazon-eventbridge-2-faf0b6e59410#c42a)
 - [📝 Cost Optimization on AWS EC2 and Database Instances Using AWS Lambda and Amazon EventBridge - 1.](https://cmakkaya.medium.com/cost-optimization-on-aws-ec2-and-database-instances-using-aws-lambda-and-amazon-eventbridge-1-33636da0eca9)
 - [📝 AWS Amplify-1: Web Hosting Flutter Application Using AWS Amplify.](https://medium.com/@cmakkaya/aws-amplify-1-web-hosting-flutter-application-using-aws-amplify-1c7ba08dd1c4)
