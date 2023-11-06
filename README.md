@@ -74,6 +74,9 @@
 </p>
 
 ## 📗 My Latest Medium Articles 
+- [📝 AWS AI Services-2: Hands-on use cases for Amazon Rekognition.](https://cmakkaya.medium.com/aws-ai-services-2-hands-on-use-cases-for-amazon-rekognition-4d98501ddcee)
+- [📝 AWS AI Services-1: What are Artificial Intelligence (AI) and AWS AI Services?](https://cmakkaya.medium.com/aws-ai-services-1-what-is-artificial-intelligence-ai-and-aws-ai-services-c5f2adf60243#7317)
+- [📝 Log Search and Analysis Using ELK Stack ( Elastic Search, Logstash, and Kibana).](https://cmakkaya.medium.com/log-search-and-analysis-using-elk-stack-elastic-search-logstash-and-kibana-ea16437a98d8)
 - [📝 Kubernetes: Creating and Testing a Horizontal Pod Autoscaling (HPA) in Kubernetes Cluster.](https://cmakkaya.medium.com/kubernetes-creating-and-testing-a-horizontal-pod-autoscaling-hpa-in-kubernetes-cluster-548f2378f0c3)
 - [📝 What are an API and Amazon API Gateway? Creating and Using a REST API with Amazon API Gateway.](https://cmakkaya.medium.com/what-is-an-api-and-the-amazon-api-gateway-creating-and-using-a-rest-api-with-amazon-api-gateway-d1b42cbb1037)
 - [📝 Cost Optimization on AWS EC2 and Database Instances Using AWS Lambda and Amazon EventBridge - 2.](https://cmakkaya.medium.com/cost-optimization-on-aws-ec2-and-database-instances-using-aws-lambda-and-amazon-eventbridge-2-faf0b6e59410#c42a)
