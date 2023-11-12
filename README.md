@@ -74,6 +74,7 @@
 </p>
 
 ## 📗 My Latest Medium Articles 
+- [📝 DevSecOps-2: Integrating and Running SonarQube into Azure Pipelines, and Examining The Test Results from The SonarQube Dashboard.](https://medium.com/@cmakkaya/devsecops-2-integrating-and-running-sonarqube-into-azure-pipelines-and-examining-the-test-results-41f37698254a)
 - [📝 AWS AI Services-2: Hands-on use cases for Amazon Rekognition.](https://cmakkaya.medium.com/aws-ai-services-2-hands-on-use-cases-for-amazon-rekognition-4d98501ddcee)
 - [📝 AWS AI Services-1: What are Artificial Intelligence (AI) and AWS AI Services?](https://cmakkaya.medium.com/aws-ai-services-1-what-is-artificial-intelligence-ai-and-aws-ai-services-c5f2adf60243#7317)
 - [📝 Log Search and Analysis Using ELK Stack ( Elastic Search, Logstash, and Kibana).](https://cmakkaya.medium.com/log-search-and-analysis-using-elk-stack-elastic-search-logstash-and-kibana-ea16437a98d8)
