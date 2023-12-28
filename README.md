@@ -74,6 +74,10 @@
 </p>
 
 ## 📗 My Latest Medium Articles 
+- [📝 Creating an SSH Key Using “ssh-keygen” and Connecting to a Remote Server with It.](https://cmakkaya.medium.com/creating-an-ssh-key-using-ssh-keygen-and-connecting-to-a-remote-server-with-it-ccb95b00fbea)
+- [📝 Diving into Kubernetes-3: Running a MongoDB and Nodejs App together in the Kubernetes cluster Using PV-PVC and ClusterIP-NodePort.](https://cmakkaya.medium.com/diving-into-kubernetes-3-running-a-mongodb-and-nodejs-app-together-in-the-kubernetes-cluster-using-c1d21b516af7)
+- [📝 Working with Microservices-17: Monitoring and Creating an Alarm with Prometheus and Grafana in the Production Stage.](https://cmakkaya.medium.com/working-with-microservices-17-monitoring-and-creating-an-alarm-with-prometheus-and-grafana-in-the-270086dd8606)
+- [📝 Helm-2: Deploying an App into GKE via the Helm by Using GitHub as a Helm Chart Repository.](https://cmakkaya.medium.com/helm-2-deploying-an-app-into-gke-via-the-helm-by-using-github-as-a-helm-chart-repository-3598d33f34b3)
 - [📝 DevSecOps-2: Integrating and Running SonarQube into Azure Pipelines, and Examining The Test Results from The SonarQube Dashboard.](https://medium.com/@cmakkaya/devsecops-2-integrating-and-running-sonarqube-into-azure-pipelines-and-examining-the-test-results-41f37698254a)
 - [📝 AWS AI Services-2: Hands-on use cases for Amazon Rekognition.](https://cmakkaya.medium.com/aws-ai-services-2-hands-on-use-cases-for-amazon-rekognition-4d98501ddcee)
 - [📝 AWS AI Services-1: What are Artificial Intelligence (AI) and AWS AI Services?](https://cmakkaya.medium.com/aws-ai-services-1-what-is-artificial-intelligence-ai-and-aws-ai-services-c5f2adf60243#7317)
@@ -119,6 +123,11 @@
 - [📝 Using a private GitHub repository with a “GitHub Personal Access Token” in the Jenkins pipeline that runs automatically the development stage via Amazon ECR and Docker container.](https://cmakkaya.medium.com/using-a-private-github-repository-with-a-github-personal-access-token-in-the-jenkins-pipeline-3f3755725fd1)
 - [📝 One of the easiest ways to build and run Javascript applications for testing before the production stage: Using the “Docker Plugin” as an agent in Jenkins.](https://cmakkaya.medium.com/easily-build-and-run-java-script-applications-using-docker-plugin-as-an-agent-in-jenkins-for-b4e3458dc4f3)
 - [📝 Creating a Load Test using BashScript and Trying on a website protected by AWS WAF](https://cmakkaya.medium.com/creating-a-load-test-using-bashscript-and-trying-on-a-website-protected-by-aws-waf-6815d561bdd8)
+- [📝 Diving into Kubernetes-3: Running a MongoDB and Nodejs App together in the Kubernetes cluster Using PV-PVC and ClusterIP-NodePort.](https://cmakkaya.medium.com/diving-into-kubernetes-3-running-a-mongodb-and-nodejs-app-together-in-the-kubernetes-cluster-using-c1d21b516af7)
+- [📝 Helm-2: Deploying an App into GKE via the Helm by Using GitHub as a Helm Chart Repository.](https://cmakkaya.medium.com/helm-2-deploying-an-app-into-gke-via-the-helm-by-using-github-as-a-helm-chart-repository-3598d33f34b3)
+- [📝 DevSecOps-2: Integrating and Running SonarQube into Azure Pipelines, and Examining The Test Results from The SonarQube Dashboard.](https://medium.com/@cmakkaya/devsecops-2-integrating-and-running-sonarqube-into-azure-pipelines-and-examining-the-test-results-41f37698254a)
+- [📝 AWS AI Services-2: Hands-on use cases for Amazon Rekognition.](https://cmakkaya.medium.com/aws-ai-services-2-hands-on-use-cases-for-amazon-rekognition-4d98501ddcee)
+  
 - 📖 `From "Working with Microservices Series" :`
 - [📝 Working with Microservices-1: Running a Java app that consists of 10 Microservice on a Development server.](https://cmakkaya.medium.com/working-with-microservices-1-running-a-java-app-that-consists-of-10-microservice-on-a-development-5de2f2b3c758)
 - [📝 Working with Microservices-8: Preparing the staging pipeline in Jenkins, and deploying the microservices app to the Kubernetes cluster using Rancher, Helm, Maven, Amazon ECR, and Amazon S3. Part-1](https://cmakkaya.medium.com/working-with-microservices-8-preparing-the-staging-pipeline-in-jenkins-and-deploying-the-a86cde2e2605)
@@ -127,7 +136,8 @@
 - [📝 Working with Microservices-7: Creating a cluster for microservices application by using Rancher](https://cmakkaya.medium.com/working-with-microservices-7-creating-a-cluster-for-microservices-application-by-using-rancher-c9e3cba07d92)
 - [📝 Working with Microservices-12: Setting Domain Name and TLS certificate for Production Pipeline using Route 53, Let’s Encrypt and Cert Manager](https://medium.com/@cmakkaya/working-with-microservices-12-setting-domain-name-and-tls-certificate-for-production-pipeline-649aef11924d)
 - [📝 Working with Microservices-14: Creating Amazon RDS MySQL database for Kubernetes cluster in the Production stage.](https://medium.com/@cmakkaya/working-with-microservices-14-creating-amazon-rds-mysql-database-for-kubernetes-cluster-in-the-5771a6208469)
-
+- [📝 Working with Microservices-17: Monitoring and Creating an Alarm with Prometheus and Grafana in the Production Stage.](https://cmakkaya.medium.com/working-with-microservices-17-monitoring-and-creating-an-alarm-with-prometheus-and-grafana-in-the-270086dd8606)
+  
 ## 📗 For my other Medium articles
 - [📝 My Other Medium Articles.](https://medium.com/@cmakkaya)
 
