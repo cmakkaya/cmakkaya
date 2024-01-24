@@ -76,6 +76,7 @@
 </p>
 
 ## 📗 My Latest Medium Articles 
+- [📝 Argo CD and GitHub Action-1: Running Together Them To Create The CI/CD Pipeline.](https://medium.com/@cmakkaya/argo-cd-and-github-action-1-running-together-them-to-create-the-ci-cd-pipeline-6baeed39dde7)
 - [📝 Creating an SSH Key Using “ssh-keygen” and Connecting to a Remote Server with It.](https://cmakkaya.medium.com/creating-an-ssh-key-using-ssh-keygen-and-connecting-to-a-remote-server-with-it-ccb95b00fbea)
 - [📝 Diving into Kubernetes-3: Running a MongoDB and Nodejs App together in the Kubernetes cluster Using PV-PVC and ClusterIP-NodePort.](https://cmakkaya.medium.com/diving-into-kubernetes-3-running-a-mongodb-and-nodejs-app-together-in-the-kubernetes-cluster-using-c1d21b516af7)
 - [📝 Working with Microservices-17: Monitoring and Creating an Alarm with Prometheus and Grafana in the Production Stage.](https://cmakkaya.medium.com/working-with-microservices-17-monitoring-and-creating-an-alarm-with-prometheus-and-grafana-in-the-270086dd8606)
@@ -104,11 +105,12 @@
 ## 📗 My Popular Medium Articles
 - [📝 Working with Sensitive Data-2: Using AWS Parameter Store and Ansible Vault together](https://cmakkaya.medium.com/working-with-sensitive-data-2-using-aws-parameter-store-and-ansible-vault-together-1f09b8f5c3b7)
 - [📝 How to secure our resources from DDoS attacks with AWS WAF & Shield?](https://cmakkaya.medium.com/how-to-secure-our-resources-from-doos-attacks-with-aws-waf-shield-5307c85cb476)
-- [📝 GitLab CI/CD - 1 : Building a Java Project using Maven and Docker within the GitLab CI pipeline.](https://cmakkaya.medium.com/gitlab-ci-cd-1-building-a-java-project-using-maven-and-docker-within-the-gitlab-ci-pipeline-278feaf7ee12)
-- [📝 GitHub Actions-1 : Creating CI/CD pipeline for Java application, and building and pushing it to Docker Hub using GitHub Actions](https://cmakkaya.medium.com/github-actions-1-creating-ci-cd-pipeline-for-java-application-and-building-and-pushing-it-to-21aec5af9f9c)
+- [📝 GitLab CI/CD-1: Building a Java Project using Maven and Docker within the GitLab CI pipeline.](https://cmakkaya.medium.com/gitlab-ci-cd-1-building-a-java-project-using-maven-and-docker-within-the-gitlab-ci-pipeline-278feaf7ee12)
+- [📝 GitHub Actions-1: Creating CI/CD pipeline for Java application, and building and pushing it to Docker Hub using GitHub Actions](https://cmakkaya.medium.com/github-actions-1-creating-ci-cd-pipeline-for-java-application-and-building-and-pushing-it-to-21aec5af9f9c)
 - [📝 AWS Developer Tools-1: Automatic deploying a Blog page from GitHub to Amazon S3 in CI/CD pipeline using AWS CodePipeline](https://cmakkaya.medium.com/aws-developer-tools-1-automatic-deploying-a-blog-page-from-github-to-amazon-s3-in-ci-cd-pipeline-89e494427174)
 - [📝 Creating a CI/CD Jenkins Pipeline with GitHub Webhook that runs automatically the Production Stage via Amazon ECS- Fargate, and Amazon ECR.](https://cmakkaya.medium.com/creating-a-full-ci-cd-jenkins-pipeline-with-github-webhook-that-runs-the-production-stage-via-2de40e1aef92)
 - [📝 Azure DevOps Services-1: Building an application in the GitHub repository using Azure Pipelines.](https://cmakkaya.medium.com/azure-devops-services-1-building-an-application-in-the-github-repository-using-azure-pipelines-e220a6d0c9a7)
+- [📝 Argo CD and GitHub Action-1: Running Together Them To Create The CI/CD Pipeline.](https://medium.com/@cmakkaya/argo-cd-and-github-action-1-running-together-them-to-create-the-ci-cd-pipeline-6baeed39dde7)
 - [📝 Database Migration-2: Migrating MySQL Database to Amazon RDS by using AWS Database Migration Services (AWS DMS).](https://cmakkaya.medium.com/database-migration-2-migrating-mysql-database-to-amazon-rds-by-using-aws-database-migration-22a7dddd767d)
 - [📝 Working with Database-MongoDB (1): Creating a Database with MongoDB Atlas](https://cmakkaya.medium.com/working-database-mongodb-1-creating-a-database-with-mongodb-atlas-4ef48cec4c52)
 - [📝 Working with Database-MSSQL Server (1): Introduction Microsoft SQL Server and Explanation of what we will do in this series of articles.](https://cmakkaya.medium.com/working-database-1-introduction-microsoft-sql-server-and-explanation-of-what-we-will-do-in-this-105bebf66a55)
