@@ -79,7 +79,8 @@
 </p>
 
 ## 📗 My Latest Medium Articles 
-- [📝 Argo CD and GitHub Action-1: Running Together Them To Create The CI/CD Pipeline.](https://medium.com/@cmakkaya/argo-cd-and-github-action-1-running-together-them-to-create-the-ci-cd-pipeline-6baeed39dde7)
+- [📝 Argo CD and GitHub Action-1: Running Together Them To Create The CI/CD Pipeline.](https://cmakkaya.medium.com/subscribing-and-using-the-aws-shield-advanced-for-higher-levels-of-protection-against-attacks-a84e6256c3b1)
+- [📝 Subscribing and Using The AWS Shield Advanced For Higher Levels Of Protection Against Attacks Targeting The Apps.](https://medium.com/@cmakkaya/argo-cd-and-github-action-1-running-together-them-to-create-the-ci-cd-pipeline-6baeed39dde7)
 - [📝 Creating an SSH Key Using “ssh-keygen” and Connecting to a Remote Server with It.](https://cmakkaya.medium.com/creating-an-ssh-key-using-ssh-keygen-and-connecting-to-a-remote-server-with-it-ccb95b00fbea)
 - [📝 Diving into Kubernetes-3: Running a MongoDB and Nodejs App together in the Kubernetes cluster Using PV-PVC and ClusterIP-NodePort.](https://cmakkaya.medium.com/diving-into-kubernetes-3-running-a-mongodb-and-nodejs-app-together-in-the-kubernetes-cluster-using-c1d21b516af7)
 - [📝 Working with Microservices-17: Monitoring and Creating an Alarm with Prometheus and Grafana in the Production Stage.](https://cmakkaya.medium.com/working-with-microservices-17-monitoring-and-creating-an-alarm-with-prometheus-and-grafana-in-the-270086dd8606)
