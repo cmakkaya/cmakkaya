@@ -22,20 +22,24 @@
 ## I'm Cumhur Mesut AKKAYA 👋 
 
 - 🌍 My cloud life started with a 10-month (~600 hours) intensive training program, intensely experiencing all the necessary skills about AWS Cloud and DevOps technologies. Then, I went through a 2-month intensive certification process, and at the end of this process, I got `Terraform(x1)` and `AWS(x3)` certificates. Also, I received mid-level Microsoft Azure Cloud and GCP Cloud training. I have `Azure(x2)` and `GCP(x1)` Clouds Training Course Certifications and Badges too. I already love the IT world and have improved myself in this field.
-- 📖 I publish my articles about Cloud and DevOps especially Security and CI/CD pipelines on [Medium](https://cmakkaya.medium.com/).
+- 📖 I publish my articles about Cloud and DevOps especially Security and CI/CD pipelines on <a href="https://cmakkaya.medium.com/" target="blank"><img align="center" src="https://upload.vectorlogo.zone/logos/medium/images/43c41ba8-9de2-453d-92dc-500dab4e316a.svg" height="30" width="30" /></a> [Medium](https://cmakkaya.medium.com/).
 - 💬 In my GitHub repository, I am adding my projects here to reach them when I need them, and also maybe they can be helpful to others.
 - 🥅 2024 Goals: Learning more about DevSecOps and Cloud. I have planned to get the following certifications, respectively: "AWS Solution Architect Professional Certification",  "AZ-104: Azure Administrator Certification", "Google Associate Cloud Engineer Certification", and "Certified Kubernetes Administrator (CKA)".
 - 😻 Fun fact: I love to read, search, and write about Cloud/DevOps. Besides this, I love to walk, ride, and fish.
 - 🌱 I’m dedicated to lifelong learning, to my three children, and to my unique wife.
 
+
 ## 🔗 &nbsp;**Connect with me**  📫  You can learn more about me.
-  - <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn" height="21"/> </a> [LinkedIn](https://www.linkedin.com/in/cumhurakkaya/)
-  - <img src="https://upload.vectorlogo.zone/logos/medium/images/43c41ba8-9de2-453d-92dc-500dab4e316a.svg" alt="Medium Articles" height="21"/> </a> [Medium Articles](https://www.linkedin.com/in/cumhurakkaya/)
-  - <img src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="YouTube" height="21"/> </a> [YouTube](https://www.youtube.com/channel/UCWcRIvy70tBBfrmBocDR5hA) 
-  - <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="gitlab" height="21"/> </a> [GitLab](https://gitlab.com/cmakkaya/)
-  - <img src="https://upload.vectorlogo.zone/logos/bitbucket/images/11915f2e-3287-46b6-a81d-0daad8160e11.svg" alt="Bitbucket" height="21"/> </a> [Bitbucket](https://bitbucket.org/cumhurshop/workspace/repositories/)
-  - :office: [Portfolio/Resume Page](http://portfolio.cmakkaya-awsdevops.link/)
-  - :pencil2: [Wordpress Articles](https://cloudplatformsanddevops.wordpress.com/)
+<a href="https://cumhur.akkaya.link/" target="blank"><img align="center" src="pictures/person.jpg" height="30" width="30" /></a> [Portfolio Page](https://cumhur.akkaya.link/)
+
+<p align="left">
+<a href="https://www.linkedin.com/in/cumhurakkaya/" target="LinkedIn"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="https://www.linkedin.com/in/cumhurakkaya/" height="30" width="30" /></a>  
+<a href="https://cmakkaya.medium.com/" target="blank"><img align="center" src="https://upload.vectorlogo.zone/logos/medium/images/43c41ba8-9de2-453d-92dc-500dab4e316a.svg" alt="https://cmakkaya.medium.com/" height="45" width="35" /></a>
+<a href="https://www.youtube.com/@Cumhur-Akkaya" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="https://www.youtube.com/@Cumhur-Akkaya" height="30" width="30" /></a>
+<a href="https://gitlab.com/cmakkaya/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="gitlab" alt="https://gitlab.com/cmakkaya/" height="30" width="30" /></a>
+<a href="https://bitbucket.org/cumhurshop/workspace/repositories/" target="blank"><img align="center" src="https://upload.vectorlogo.zone/logos/bitbucket/images/11915f2e-3287-46b6-a81d-0daad8160e11.svg" alt="https://bitbucket.org/cumhurshop/workspace/repositories/" height="30" width="30" /></a>
+<a href="https://cloudplatformsanddevops.wordpress.com/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/wordpress/wordpress-icon.svg" alt="https://cloudplatformsanddevops.wordpress.com/" height="30" width="40" /></a>  
+</p>
  
 ## 🚴 Skills 💻 
 <p>
@@ -50,14 +54,13 @@
 <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-ar21.svg" alt="Terraform" height="48"/> </a>
 <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/argoprojio/argoprojio-ar21.svg" alt="ArgoCD" height="48"/> </a>
 <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/ansible/ansible-ar21.png" alt="Ansible" height="48"/> </a>
-<a href="#" target="_blank"> <img src="https://github.com/cmakkaya/cmakkaya/blob/main/git-bash.svg" alt="Python" width="100" height="48"/> </a> 
+<a href="#" target="_blank"> <img src="https://github.com/cmakkaya/cmakkaya/blob/main/git-bash.svg" alt="Python" width="80" height="48"/> </a> 
 <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg" alt="Linux"  height="48"/> </a>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="40" alt="Ubuntu logo"  />
-<img width="12" />
-<a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" alt="git" height="48"/> </a> 
+<a href="#" target="_blank"> <img src="https://vectorwiki.com/images/YaAhi__ubuntu.svg" alt="Ubuntu" width="50" height="41"/> </a>
+<a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" alt="git" height="41" width="80"/> </a> 
 <a href="#" target="_blank"> <img src="https://1000logos.net/wp-content/uploads/2018/11/GitHub-logo.jpg" alt="github" height="48"/> </a>
-<a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-ar21.svg" alt="gitlab" height="51"/> </a>
-<a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/bitbucket/bitbucket-official.svg" alt="Bitbucket" width="120" height="40"/> </a>
+<a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-ar21.svg" alt="gitlab" height="51" width="80"/> </a>
+<a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/bitbucket/bitbucket-official.svg" alt="Bitbucket" width="100" height="40"/> </a>
 <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-ar21.svg" alt="Jira"  height="48"/> </a>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
   <img width="12" />
