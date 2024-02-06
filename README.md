@@ -136,7 +136,7 @@
 - [📝 DevSecOps-2: Integrating and Running SonarQube into Azure Pipelines, and Examining The Test Results from The SonarQube Dashboard.](https://medium.com/@cmakkaya/devsecops-2-integrating-and-running-sonarqube-into-azure-pipelines-and-examining-the-test-results-41f37698254a)
 - [📝 AWS AI Services-2: Hands-on use cases for Amazon Rekognition.](https://cmakkaya.medium.com/aws-ai-services-2-hands-on-use-cases-for-amazon-rekognition-4d98501ddcee)
   
-- 📖 `From "Working with Microservices Series" :`
+#### 📖 `From "Working with Microservices Series" :`
 - [📝 Working with Microservices-1: Running a Java app that consists of 10 Microservice on a Development server.](https://cmakkaya.medium.com/working-with-microservices-1-running-a-java-app-that-consists-of-10-microservice-on-a-development-5de2f2b3c758)
 - [📝 Working with Microservices-8: Preparing the staging pipeline in Jenkins, and deploying the microservices app to the Kubernetes cluster using Rancher, Helm, Maven, Amazon ECR, and Amazon S3. Part-1](https://cmakkaya.medium.com/working-with-microservices-8-preparing-the-staging-pipeline-in-jenkins-and-deploying-the-a86cde2e2605)
 - [📝 Working with Microservices-10: Explanation of the Production Stage and Creating Amazon EKS cluster for the “Production Environment and Pipeline” in order to deploy the Microservices App into it.](https://cmakkaya.medium.com/working-with-microservices-10-explanation-of-the-production-stage-and-creating-amazon-eks-cluster-f202558ca4fb)
