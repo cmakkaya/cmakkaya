@@ -80,8 +80,10 @@
 
 ## 📗 My Latest Medium Articles 
 - [📝 MinIO-1: Installing And Using MinIO As An Object Storage.](https://cmakkaya.medium.com/minio-1-installing-and-using-minio-as-an-object-storage-741a30668dc3)
+- [📝 Working with Microservices-18: Setting Up An Alarm By Using the Grafana Dashboard and Prometheus ConfigMap.yml.](https://cmakkaya.medium.com/working-with-microservices-18-setting-up-an-alarm-by-using-the-grafana-dashboard-and-prometheus-a1c53671024d)
 - [📝 Argo CD and GitHub Action-1: Running Together Them To Create The CI/CD Pipeline.](https://cmakkaya.medium.com/subscribing-and-using-the-aws-shield-advanced-for-higher-levels-of-protection-against-attacks-a84e6256c3b1)
 - [📝 Subscribing and Using The AWS Shield Advanced For Higher Levels Of Protection Against Attacks Targeting The Apps.](https://medium.com/@cmakkaya/argo-cd-and-github-action-1-running-together-them-to-create-the-ci-cd-pipeline-6baeed39dde7)
+- [📝 Cloud Security, The Capital One Case, and The Shared Security Model.](https://cmakkaya.medium.com/cloud-security-the-capital-one-case-and-the-shared-security-model-1e21b823dc00)
 - [📝 Creating an SSH Key Using “ssh-keygen” and Connecting to a Remote Server with It.](https://cmakkaya.medium.com/creating-an-ssh-key-using-ssh-keygen-and-connecting-to-a-remote-server-with-it-ccb95b00fbea)
 - [📝 Diving into Kubernetes-3: Running a MongoDB and Nodejs App together in the Kubernetes cluster Using PV-PVC and ClusterIP-NodePort.](https://cmakkaya.medium.com/diving-into-kubernetes-3-running-a-mongodb-and-nodejs-app-together-in-the-kubernetes-cluster-using-c1d21b516af7)
 - [📝 Working with Microservices-17: Monitoring and Creating an Alarm with Prometheus and Grafana in the Production Stage.](https://cmakkaya.medium.com/working-with-microservices-17-monitoring-and-creating-an-alarm-with-prometheus-and-grafana-in-the-270086dd8606)
@@ -146,6 +148,7 @@
 - [📝 Working with Microservices-12: Setting Domain Name and TLS certificate for Production Pipeline using Route 53, Let’s Encrypt and Cert Manager](https://medium.com/@cmakkaya/working-with-microservices-12-setting-domain-name-and-tls-certificate-for-production-pipeline-649aef11924d)
 - [📝 Working with Microservices-14: Creating Amazon RDS MySQL database for Kubernetes cluster in the Production stage.](https://medium.com/@cmakkaya/working-with-microservices-14-creating-amazon-rds-mysql-database-for-kubernetes-cluster-in-the-5771a6208469)
 - [📝 Working with Microservices-17: Monitoring and Creating an Alarm with Prometheus and Grafana in the Production Stage.](https://cmakkaya.medium.com/working-with-microservices-17-monitoring-and-creating-an-alarm-with-prometheus-and-grafana-in-the-270086dd8606)
+- [📝 Working with Microservices-18: Setting Up An Alarm By Using the Grafana Dashboard and Prometheus ConfigMap.yml.](https://cmakkaya.medium.com/working-with-microservices-18-setting-up-an-alarm-by-using-the-grafana-dashboard-and-prometheus-a1c53671024d)
   
 ## 📗 For my other Medium articles
 - [📝 My Other Medium Articles.](https://medium.com/@cmakkaya)
