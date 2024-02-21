@@ -79,6 +79,7 @@
 </p>
 
 ## 📗 My Latest Medium Articles 
+- [📝 MinIO-1: Installing And Using MinIO As An Object Storage.](https://cmakkaya.medium.com/minio-1-installing-and-using-minio-as-an-object-storage-741a30668dc3)
 - [📝 Argo CD and GitHub Action-1: Running Together Them To Create The CI/CD Pipeline.](https://cmakkaya.medium.com/subscribing-and-using-the-aws-shield-advanced-for-higher-levels-of-protection-against-attacks-a84e6256c3b1)
 - [📝 Subscribing and Using The AWS Shield Advanced For Higher Levels Of Protection Against Attacks Targeting The Apps.](https://medium.com/@cmakkaya/argo-cd-and-github-action-1-running-together-them-to-create-the-ci-cd-pipeline-6baeed39dde7)
 - [📝 Creating an SSH Key Using “ssh-keygen” and Connecting to a Remote Server with It.](https://cmakkaya.medium.com/creating-an-ssh-key-using-ssh-keygen-and-connecting-to-a-remote-server-with-it-ccb95b00fbea)
