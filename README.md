@@ -80,6 +80,8 @@
 </p>
 
 ## 📗 My Latest Medium Articles 
+- [📝 .NET Series-2: Adding and Running The “Unit Tests” to the “Build stage” for the .NET Application in the AWS CodePipeline.](https://cmakkaya.medium.com/net-series-2-adding-and-running-the-unit-tests-to-the-build-stage-for-the-net-30e41e513206)
+- [📝 .NET Series-1: Creating CI/CD Pipeline For a .NET Application By Using AWS Developer Tools.](https://cmakkaya.medium.com/net-series-1-creating-ci-cd-pipeline-for-a-net-application-by-using-aws-developer-tools-846bc648733e)
 - [📝 MinIO-1: Installing And Using MinIO As An Object Storage.](https://cmakkaya.medium.com/minio-1-installing-and-using-minio-as-an-object-storage-741a30668dc3)
 - [📝 Working with Microservices-18: Setting Up An Alarm By Using the Grafana Dashboard and Prometheus ConfigMap.yml.](https://cmakkaya.medium.com/working-with-microservices-18-setting-up-an-alarm-by-using-the-grafana-dashboard-and-prometheus-a1c53671024d)
 - [📝 Argo CD and GitHub Action-1: Running Together Them To Create The CI/CD Pipeline.](https://cmakkaya.medium.com/subscribing-and-using-the-aws-shield-advanced-for-higher-levels-of-protection-against-attacks-a84e6256c3b1)
@@ -139,6 +141,7 @@
 - [📝 Helm-2: Deploying an App into GKE via the Helm by Using GitHub as a Helm Chart Repository.](https://cmakkaya.medium.com/helm-2-deploying-an-app-into-gke-via-the-helm-by-using-github-as-a-helm-chart-repository-3598d33f34b3)
 - [📝 DevSecOps-2: Integrating and Running SonarQube into Azure Pipelines, and Examining The Test Results from The SonarQube Dashboard.](https://medium.com/@cmakkaya/devsecops-2-integrating-and-running-sonarqube-into-azure-pipelines-and-examining-the-test-results-41f37698254a)
 - [📝 AWS AI Services-2: Hands-on use cases for Amazon Rekognition.](https://cmakkaya.medium.com/aws-ai-services-2-hands-on-use-cases-for-amazon-rekognition-4d98501ddcee)
+- [📝 .NET Series-1: Creating CI/CD Pipeline For a .NET Application By Using AWS Developer Tools.](https://cmakkaya.medium.com/net-series-1-creating-ci-cd-pipeline-for-a-net-application-by-using-aws-developer-tools-846bc648733e)
   
 #### 📖 `From "Working with Microservices Series" :`
 - [📝 Working with Microservices-1: Running a Java app that consists of 10 Microservice on a Development server.](https://cmakkaya.medium.com/working-with-microservices-1-running-a-java-app-that-consists-of-10-microservice-on-a-development-5de2f2b3c758)
