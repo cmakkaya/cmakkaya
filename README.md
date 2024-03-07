@@ -79,7 +79,8 @@
 <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/minioio/minioio-ar21.svg" alt="MinIO" height="46"/> </a>
 </p>
 
-## 📗 My Latest Medium Articles 
+## 📗 My Latest Medium Articles
+- [📝 Message Queue(MQ) Systems-1: Amazon SQS (Simple Queue Service).](https://cmakkaya.medium.com/message-queue-mq-systems-1-amazon-sqs-simple-queue-service-42fb5962cf3d)
 - [📝 .NET Series-2: Adding and Running The “Unit Tests” to the “Build stage” for the .NET Application in the AWS CodePipeline.](https://cmakkaya.medium.com/net-series-2-adding-and-running-the-unit-tests-to-the-build-stage-for-the-net-30e41e513206)
 - [📝 .NET Series-1: Creating CI/CD Pipeline For a .NET Application By Using AWS Developer Tools.](https://cmakkaya.medium.com/net-series-1-creating-ci-cd-pipeline-for-a-net-application-by-using-aws-developer-tools-846bc648733e)
 - [📝 MinIO-1: Installing And Using MinIO As An Object Storage.](https://cmakkaya.medium.com/minio-1-installing-and-using-minio-as-an-object-storage-741a30668dc3)
