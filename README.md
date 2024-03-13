@@ -19,7 +19,7 @@
 
 ## I'm Cumhur Mesut AKKAYA 👋 
 
-- 🌍 My cloud life started with a 10-month (~600 hours) intensive training program, intensely experiencing all the necessary skills about AWS Cloud and DevOps technologies. Then, I went through a 2-month intensive certification process, and at the end of this process, I got `Terraform(x1)` and `AWS(x3)` certificates. Also, I received mid-level Microsoft Azure Cloud and GCP Cloud training. I have `Azure(x2)` and `GCP(x1)` Clouds Training Course Certifications and Badges too. I already love the IT world and have improved myself in this field.
+- 🌍 My cloud life started with a 10-month (~600 hours) intensive training program, intensely experiencing all the necessary skills about AWS Cloud and DevOps technologies. Then, I went through a 2-month intensive certification process, and at the end of this process, I got `Terraform(x1)` and `AWS(x3)` certificates. Also, I received Microsoft Azure Cloud and GCP Cloud training. I have `Azure(x2)` and `GCP(x1)` Clouds Training Course Certifications and Badges too. I already love the IT world and have improved myself in this field.
 - 📖 I publish my articles about Cloud and DevOps especially Security and CI/CD pipelines on <a href="https://cmakkaya.medium.com/" target="blank"><img align="center" src="https://upload.vectorlogo.zone/logos/medium/images/43c41ba8-9de2-453d-92dc-500dab4e316a.svg" height="30" width="30" /></a> [Medium](https://cmakkaya.medium.com/).
 - 💬 In my GitHub repository, I am adding my projects here to reach them when I need them, and also maybe they can be helpful to others.
 - 🥅 2024 Goals: Learning more about DevSecOps and Cloud. I have planned to get the following certifications, respectively: "AWS Solution Architect Professional Certification",  "AZ-104: Azure Administrator Certification", "Google Associate Cloud Engineer Certification", and "Certified Kubernetes Administrator (CKA)".
@@ -74,7 +74,9 @@
 <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg" alt="css" width="70" height="48"/> </a>
 <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg" alt="vs-code" height="48"/> </a>
 <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/slack/slack-ar21.svg" alt="Slack" height="48"/> </a>
-<a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/minioio/minioio-ar21.svg" alt="MinIO" height="46"/> </a>
+<a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/minioio/minioio-ar21.svg" alt="MinIO" height="45"/> </a>
+<a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-ar21.svg" alt="Apache_Kafka" height="45"/> </a>
+
 </p>
 
 ## 📗 My Latest Medium Articles
