@@ -80,6 +80,13 @@
 </p>
 
 ## 📗 My Latest Medium Articles
+- [📝 Visualizing The Data Using Amazon QuickSight](https://cmakkaya.medium.com/visualizing-the-data-using-amazon-quicksight-491badffcd46)
+- [📝 ETL(Extract, Transform, and Load), Analyze and Visualize a Data Lake Using AWS Glue, Amazon Athena, Amazon Quicksight, and Amazon S3](https://cmakkaya.medium.com/etl-extract-transform-and-load-analyze-and-visualize-a-data-lake-using-aws-glue-amazon-athena-a6c995685744)
+- [📝 Step-by-Step Tutorial to Set Up, Build a CI/CD Deployment Pipeline, and Monitor a Kubernetes Cluster on Amazon EKS.](https://towardsaws.com/step-by-step-tutorial-to-set-up-build-a-ci-cd-deployment-pipeline-and-monitor-a-kubernetes-f210c850a8e1)
+- [📝 What is a Framework? What is it used for?](https://cmakkaya.medium.com/what-is-a-framework-what-is-it-used-for-7c19251cf564)
+- [📝 Deploying a Microservices Application with RDS MySql DB into Kubernetes Cluster With High Availability, Auto-Healing, Reliability, Auto Scaling, Monitoring, and Securing.](https://cmakkaya.medium.com/deploying-a-microservices-application-with-rds-mysql-db-into-kubernetes-cluster-with-high-818c7c51ab12)
+- [📝 Step by Step Full DevOps Project : Creating A Kubernetes Cluster With High Availability, Reliability, Auto Scaling, Auto-Healing, and Monitoring.](https://cmakkaya.medium.com/step-by-step-full-project-creating-a-kubernetes-cluster-with-high-availability-reliability-3333ebcc687c)
+- [📝 Message Queue(MQ) Systems-2: Installing and Using Apache Kafka as an Event Streaming Platform.](https://cmakkaya.medium.com/message-queue-mq-systems-2-installing-and-using-apache-kafka-as-an-event-streaming-platform-fad3e99ded85)
 - [📝 Message Queue(MQ) Systems-1: Amazon SQS (Simple Queue Service).](https://cmakkaya.medium.com/message-queue-mq-systems-1-amazon-sqs-simple-queue-service-42fb5962cf3d)
 - [📝 .NET Series-2: Adding and Running The “Unit Tests” to the “Build stage” for the .NET Application in the AWS CodePipeline.](https://cmakkaya.medium.com/net-series-2-adding-and-running-the-unit-tests-to-the-build-stage-for-the-net-30e41e513206)
 - [📝 .NET Series-1: Creating CI/CD Pipeline For a .NET Application By Using AWS Developer Tools.](https://cmakkaya.medium.com/net-series-1-creating-ci-cd-pipeline-for-a-net-application-by-using-aws-developer-tools-846bc648733e)
@@ -143,6 +150,11 @@
 - [📝 DevSecOps-2: Integrating and Running SonarQube into Azure Pipelines, and Examining The Test Results from The SonarQube Dashboard.](https://medium.com/@cmakkaya/devsecops-2-integrating-and-running-sonarqube-into-azure-pipelines-and-examining-the-test-results-41f37698254a)
 - [📝 AWS AI Services-2: Hands-on use cases for Amazon Rekognition.](https://cmakkaya.medium.com/aws-ai-services-2-hands-on-use-cases-for-amazon-rekognition-4d98501ddcee)
 - [📝 .NET Series-1: Creating CI/CD Pipeline For a .NET Application By Using AWS Developer Tools.](https://cmakkaya.medium.com/net-series-1-creating-ci-cd-pipeline-for-a-net-application-by-using-aws-developer-tools-846bc648733e)
+- [📝 Message Queue(MQ) Systems-2: Installing and Using Apache Kafka as an Event Streaming Platform.](https://cmakkaya.medium.com/message-queue-mq-systems-2-installing-and-using-apache-kafka-as-an-event-streaming-platform-fad3e99ded85)
+- [📝 ETL(Extract, Transform, and Load), Analyze and Visualize a Data Lake Using AWS Glue, Amazon Athena, Amazon Quicksight, and Amazon S3](https://cmakkaya.medium.com/etl-extract-transform-and-load-analyze-and-visualize-a-data-lake-using-aws-glue-amazon-athena-a6c995685744)
+- [📝 Step-by-Step Tutorial to Set Up, Build a CI/CD Deployment Pipeline, and Monitor a Kubernetes Cluster on Amazon EKS.](https://towardsaws.com/step-by-step-tutorial-to-set-up-build-a-ci-cd-deployment-pipeline-and-monitor-a-kubernetes-f210c850a8e1)
+- [📝 Deploying a Microservices Application with RDS MySql DB into Kubernetes Cluster With High Availability, Auto-Healing, Reliability, Auto Scaling, Monitoring, and Securing.](https://cmakkaya.medium.com/deploying-a-microservices-application-with-rds-mysql-db-into-kubernetes-cluster-with-high-818c7c51ab12)
+
   
 #### 📖 `From "Working with Microservices Series" :`
 - [📝 Working with Microservices-1: Running a Java app that consists of 10 Microservice on a Development server.](https://cmakkaya.medium.com/working-with-microservices-1-running-a-java-app-that-consists-of-10-microservice-on-a-development-5de2f2b3c758)
