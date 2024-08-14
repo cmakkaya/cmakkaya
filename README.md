@@ -38,6 +38,7 @@
 <a href="https://bitbucket.org/cumhurshop/workspace/repositories/" target="blank"><img align="center" src="https://upload.vectorlogo.zone/logos/bitbucket/images/11915f2e-3287-46b6-a81d-0daad8160e11.svg" alt="https://bitbucket.org/cumhurshop/workspace/repositories/" height="30" width="30" /></a>
 <a href="https://cloudplatformsanddevops.wordpress.com/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/wordpress/wordpress-icon.svg" alt="https://cloudplatformsanddevops.wordpress.com/" height="30" width="40" /></a>  
 </p>
+
  
 ## 🚴 Skills 💻 
 <p>
