@@ -81,6 +81,10 @@
 </p>
 
 ## 📗 My Latest Medium Articles
+- [📝 Working with Database (2): Running MS SQL Server and Webserver(Apache)+PHP Containers Together Using Docker Compose](https://cmakkaya.medium.com/working-with-database-2-running-ms-sql-server-and-webserver-apache-php-containers-together-3dea9a263105)
+- [📝 DevOps and Cloud Resources Updates (PDF Books)](https://cmakkaya.medium.com/devops-and-cloud-resources-updates-d035692d6962)
+- [📝 Detecting Problems and Monitoring the Performance of the Kubernetes Cluster on Amazon EKS Created with Terraform](https://cmakkaya.medium.com/detecting-problems-and-monitoring-the-performance-of-the-kubernetes-cluster-on-amazon-eks-created-b3d976445ff2)
+- [📝 DevOps and Cloud Resources (PDF Books)](https://cmakkaya.medium.com/devops-and-cloud-resources-b372a3a81187)
 - [📝 Visualizing The Data Using Amazon QuickSight](https://cmakkaya.medium.com/visualizing-the-data-using-amazon-quicksight-491badffcd46)
 - [📝 ETL(Extract, Transform, and Load), Analyze and Visualize a Data Lake Using AWS Glue, Amazon Athena, Amazon Quicksight, and Amazon S3](https://cmakkaya.medium.com/etl-extract-transform-and-load-analyze-and-visualize-a-data-lake-using-aws-glue-amazon-athena-a6c995685744)
 - [📝 Step-by-Step Tutorial to Set Up, Build a CI/CD Deployment Pipeline, and Monitor a Kubernetes Cluster on Amazon EKS.](https://towardsaws.com/step-by-step-tutorial-to-set-up-build-a-ci-cd-deployment-pipeline-and-monitor-a-kubernetes-f210c850a8e1)
@@ -129,6 +133,8 @@
 - [📝 AWS Developer Tools-1: Automatic deploying a Blog page from GitHub to Amazon S3 in CI/CD pipeline using AWS CodePipeline](https://cmakkaya.medium.com/aws-developer-tools-1-automatic-deploying-a-blog-page-from-github-to-amazon-s3-in-ci-cd-pipeline-89e494427174)
 - [📝 Creating a CI/CD Jenkins Pipeline with GitHub Webhook that runs automatically the Production Stage via Amazon ECS- Fargate, and Amazon ECR.](https://cmakkaya.medium.com/creating-a-full-ci-cd-jenkins-pipeline-with-github-webhook-that-runs-the-production-stage-via-2de40e1aef92)
 - [📝 Azure DevOps Services-1: Building an application in the GitHub repository using Azure Pipelines.](https://cmakkaya.medium.com/azure-devops-services-1-building-an-application-in-the-github-repository-using-azure-pipelines-e220a6d0c9a7)
+- [📝 DevOps and Cloud Resources Updates (PDF Books)](https://cmakkaya.medium.com/devops-and-cloud-resources-updates-d035692d6962)
+- [📝 Detecting Problems and Monitoring the Performance of the Kubernetes Cluster on Amazon EKS Created with Terraform](https://cmakkaya.medium.com/detecting-problems-and-monitoring-the-performance-of-the-kubernetes-cluster-on-amazon-eks-created-b3d976445ff2)  
 - [📝 Argo CD and GitHub Action-1: Running Together Them To Create The CI/CD Pipeline.](https://medium.com/@cmakkaya/argo-cd-and-github-action-1-running-together-them-to-create-the-ci-cd-pipeline-6baeed39dde7)
 - [📝 Database Migration-2: Migrating MySQL Database to Amazon RDS by using AWS Database Migration Services (AWS DMS).](https://cmakkaya.medium.com/database-migration-2-migrating-mysql-database-to-amazon-rds-by-using-aws-database-migration-22a7dddd767d)
 - [📝 Working with Database-MongoDB (1): Creating a Database with MongoDB Atlas](https://cmakkaya.medium.com/working-database-mongodb-1-creating-a-database-with-mongodb-atlas-4ef48cec4c52)
