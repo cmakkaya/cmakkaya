@@ -19,10 +19,10 @@
 
 ## I'm Cumhur Mesut AKKAYA 👋 
 
-- 🌍 My cloud life started with a 10-month (~600 hours) intensive training program, intensely experiencing all the necessary skills about AWS Cloud and DevOps technologies. Then, I went through a 2-month intensive certification process, and at the end of this process, I got `Terraform(x1)` and `AWS(x3)` certificates. Also, I received Microsoft Azure Cloud and GCP Cloud training. I have `Azure(x2)` and `GCP(x1)` Clouds Training Course Certifications and Badges too. I already love the IT world and have improved myself in this field.
+- 🌍 My cloud life started with a 10-month (~600 hours) intensive training program, intensely experiencing all the necessary skills about AWS Cloud and DevOps technologies. Then, I went through a 2-month intensive certification process, and at the end of this process, I got `Terraform(x1)` and `AWS(x3)` certificates. I also received Microsoft Azure Cloud and GCP Cloud training. I have `Azure(x2)` and `GCP(x1)` Clouds Training Course Certifications and Badges too. I already love the IT world and have improved myself in this field.
 - 📖 I publish my articles about Cloud and DevOps especially Security and CI/CD pipelines on <a href="https://cmakkaya.medium.com/" target="blank"><img align="center" src="https://upload.vectorlogo.zone/logos/medium/images/43c41ba8-9de2-453d-92dc-500dab4e316a.svg" height="30" width="30" /></a> [Medium](https://cmakkaya.medium.com/).
 - 💬 In my GitHub repository, I am adding my projects here to reach them when I need them, and also maybe they can be helpful to others.
-- 🥅 2024 Goals: Learning more about DevSecOps and Cloud. I have planned to get the following certifications, respectively: "AWS Solution Architect Professional Certification",  "AZ-104: Azure Administrator Certification", "Google Associate Cloud Engineer Certification", and "Certified Kubernetes Administrator (CKA)".
+- 🥅 2025 Goals: Learning more about DevSecOps and Cloud. I have planned to get the following certifications, respectively: "AWS Solution Architect Professional Certification",  "AZ-104: Azure Administrator Certification", "Google Associate Cloud Engineer Certification", and "Certified Kubernetes Administrator (CKA)".
 - 😻 Fun fact: I love to read, search, and write about Cloud/DevOps. Besides this, I love to walk, ride, and fish.
 - 🌱 I’m dedicated to lifelong learning, to my three children, and to my unique wife.
 
@@ -81,7 +81,9 @@
 </p>
 
 ## 📗 My Latest Medium Articles
-- [📝 Working with Database (2): Running MS SQL Server and Webserver(Apache)+PHP Containers Together Using Docker Compose](https://cmakkaya.medium.com/working-with-database-2-running-ms-sql-server-and-webserver-apache-php-containers-together-3dea9a263105)
+- [📝Step-by-Step A Comprehensive Tutorial: How to Back Up and Restore Kubernetes Cluster with Velero](https://cmakkaya.medium.com/step-by-step-a-comprehensive-tutorial-how-to-back-up-and-restore-velero-with-velero-014613f17b82)
+- [📝Argo CD and GitHub Action-2: Running Together Them To Create The CI/CD Pipeline Into Google Cloud GKE](https://cmakkaya.medium.com/argo-cd-and-github-action-2-running-together-them-to-create-the-ci-cd-pipeline-into-google-cloud-1ed9049d44ef)
+- [📝Working with Database - 5: Running MS SQL Server and Webserver(Apache)+PHP App On The Amazon Elastic Container Service (ECS) By Using Jenkins CI/CD Pipeline](https://cmakkaya.medium.com/working-with-database-5-running-ms-sql-server-and-webserver-apache-php-app-on-the-amazon-5405a99b95ee)
 - [📝 DevOps and Cloud Resources Updates (PDF Books)](https://cmakkaya.medium.com/devops-and-cloud-resources-updates-d035692d6962)
 - [📝 Detecting Problems and Monitoring the Performance of the Kubernetes Cluster on Amazon EKS Created with Terraform](https://cmakkaya.medium.com/detecting-problems-and-monitoring-the-performance-of-the-kubernetes-cluster-on-amazon-eks-created-b3d976445ff2)
 - [📝 DevOps and Cloud Resources (PDF Books)](https://cmakkaya.medium.com/devops-and-cloud-resources-b372a3a81187)
@@ -117,11 +119,11 @@
 - [📝 Database Migration-1: The Database Migration Strategies, Terms, Solutions, and AWS Database Migration Service (AWS DMS).](https://cmakkaya.medium.com/database-migration-1-the-database-migration-strategies-terms-solutions-and-aws-database-9cc1b75dd694)
 - [📝 Working with Database-MongoDB (1): Creating a Database with MongoDB Atlas](https://cmakkaya.medium.com/working-database-mongodb-1-creating-a-database-with-mongodb-atlas-4ef48cec4c52)
 - [📝 Bitbucket-2: Deploying a Web App to S3 Bucket and CloudFront By Using CI/CD Bitbucket Pipeline](https://medium.com/@cmakkaya/bitbucket-2-deploying-a-web-app-to-s3-bucket-and-cloudfront-by-using-ci-cd-bitbucket-pipeline-affc9cc15d95)
-- [📝 Docker Desktop-4: Docker Hub authorization for Docker Desktop and Pushing a image from Docker Desktop to Docker Hub.](https://cmakkaya.medium.com/docker-desktop-4-docker-hub-authorization-for-docker-desktop-and-pushing-a-image-from-docker-c2babb61a559)
+- [📝 Docker Desktop-4: Docker Hub authorization for Docker Desktop and Pushing an image from Docker Desktop to Docker Hub.](https://cmakkaya.medium.com/docker-desktop-4-docker-hub-authorization-for-docker-desktop-and-pushing-a-image-from-docker-c2babb61a559)
 - [📝 Working with Database-MSSQL Server (Step 5)- CSI: Troubleshooting in Microsoft SQL Server containers](https://cmakkaya.medium.com/step-5-csi-troubleshooting-in-microsoft-sql-server-containers-e5c5449443dd)
 - [📝 Amazon Cognito-3: CSI- Troubleshooting in Amazon Cognito’s Errors](https://medium.com/@cmakkaya/amazon-cognito-csi-troubleshooting-in-amazon-cognitos-errors-8e5f9dc8a8ee)
 - [📝 Azure DevOps Services-3: Troubleshooting in Errors of Azure Pipelines: ##[error]No hosted parallelism has been purchased or granted. To request a free parallelism grant.](https://medium.com/@cmakkaya/azure-devops-services-3-troubleshooting-in-errors-of-azure-pipelines-fc16d541a287) 
-- [📝 Git/GitHub 1- Reverting the our repository to a old commit on both GitHub and Local repository.](https://cmakkaya.medium.com/git-github-1-reverting-the-our-repository-to-a-old-commit-on-both-github-and-local-repository-8e66abcaf128) 
+- [📝 Git/GitHub 1- Reverting our repository to an old commit on both GitHub and Local repository.](https://cmakkaya.medium.com/git-github-1-reverting-the-our-repository-to-a-old-commit-on-both-github-and-local-repository-8e66abcaf128) 
 - [📝 Working with Microservices-15: Importing Amazon EKS cluster to Rancher in the Production Stage](https://cmakkaya.medium.com/working-with-microservices-15-importing-amazon-eks-cluster-to-rancher-in-the-production-stage-c1726b817505)
 - [📝 Working with Microservices-16: Preparing and Running The Production Jenkins File and Pipeline, Examining the output of the Jenkins Pipeline Using Rancher and our Browser](https://medium.com/@cmakkaya/working-with-microservices-16-preparing-and-running-the-production-jenkins-file-and-pipeline-a545ea7590ef) 
 
@@ -139,10 +141,10 @@
 - [📝 Database Migration-2: Migrating MySQL Database to Amazon RDS by using AWS Database Migration Services (AWS DMS).](https://cmakkaya.medium.com/database-migration-2-migrating-mysql-database-to-amazon-rds-by-using-aws-database-migration-22a7dddd767d)
 - [📝 Working with Database-MongoDB (1): Creating a Database with MongoDB Atlas](https://cmakkaya.medium.com/working-database-mongodb-1-creating-a-database-with-mongodb-atlas-4ef48cec4c52)
 - [📝 Working with Database-MSSQL Server (1): Introduction Microsoft SQL Server and Explanation of what we will do in this series of articles.](https://cmakkaya.medium.com/working-database-1-introduction-microsoft-sql-server-and-explanation-of-what-we-will-do-in-this-105bebf66a55)
-- [📝 Docker Desktop-3: Deploying a Java based Veterinarian Clinic Web App and its MySql DataBase to the Docker Desktop Kubernetes Cluster by using Kubernetes manifesto yaml files](https://medium.com/@cmakkaya/docker-desktop-3-deploying-a-java-based-veterinarian-clinic-web-app-and-its-mysql-database-to-the-ac6609a49fa8)
+- [📝 Docker Desktop-3: Deploying a Java-based Veterinarian Clinic Web App and its MySql DataBase to the Docker Desktop Kubernetes Cluster by using Kubernetes manifesto yaml files](https://medium.com/@cmakkaya/docker-desktop-3-deploying-a-java-based-veterinarian-clinic-web-app-and-its-mysql-database-to-the-ac6609a49fa8)
 - [📝 How to reset the initialing passwords of DevOps tools (Jenkins, Rancher, Nexus, etc.) or get the bootstrap password manually?](https://cmakkaya.medium.com/how-to-reset-the-initialing-passwords-of-devops-tools-jenkins-rancher-nexus-etc-e1de341d9e7a)
 - [📝 Bitbucket-1: Creating a Bitbucket Repository and Adding our Project files to the New Repository Using VS Code](https://cmakkaya.medium.com/bitbucket-1-creating-a-bitbucket-repository-and-adding-our-project-files-to-the-new-repository-2c4267bf5b46)
-- [📝 Working with Microservices-1: Running a Java app that consists of 10 Microservice on a Development server.](https://cmakkaya.medium.com/working-with-microservices-1-running-a-java-app-that-consists-of-10-microservice-on-a-development-5de2f2b3c758)
+- [📝 Working with Microservices-1: Running a Java app that consists of 10 Microservices on a Development server.](https://cmakkaya.medium.com/working-with-microservices-1-running-a-java-app-that-consists-of-10-microservice-on-a-development-5de2f2b3c758)
 - [📝 Amazon Cognito-1: Creating Cognito User Pools for authentication, and Connecting to an Application by using it.](https://cmakkaya.medium.com/amazon-cognito-1-creating-cognito-user-pools-for-authentication-and-connecting-to-an-application-99f8c5388205)
 - [📝 Copying the Rancher cluster’s “KubeConfig” file into Jenkins server using Rancher or VScode](https://cmakkaya.medium.com/copying-the-rancher-clusters-kubeconfig-file-to-jenkins-using-rancher-or-vscode-40acf8d6fe8c)
 - [📝 Nexus-1: Setting up (with Terraform or Manuel) and Using Nexus (Building Java app with Maven using Nexus).](https://cmakkaya.medium.com/nexus-1-installing-with-terraform-or-manuel-and-using-nexus-building-java-app-with-maven-using-f46aad6efff7)
@@ -164,7 +166,7 @@
 
   
 #### 📖 `From "Working with Microservices Series" :`
-- [📝 Working with Microservices-1: Running a Java app that consists of 10 Microservice on a Development server.](https://cmakkaya.medium.com/working-with-microservices-1-running-a-java-app-that-consists-of-10-microservice-on-a-development-5de2f2b3c758)
+- [📝 Working with Microservices-1: Running a Java app that consists of 10 Microservices on a Development server.](https://cmakkaya.medium.com/working-with-microservices-1-running-a-java-app-that-consists-of-10-microservice-on-a-development-5de2f2b3c758)
 - [📝 Working with Microservices-8: Preparing the staging pipeline in Jenkins, and deploying the microservices app to the Kubernetes cluster using Rancher, Helm, Maven, Amazon ECR, and Amazon S3. Part-1](https://cmakkaya.medium.com/working-with-microservices-8-preparing-the-staging-pipeline-in-jenkins-and-deploying-the-a86cde2e2605)
 - [📝 Working with Microservices-10: Explanation of the Production Stage and Creating Amazon EKS cluster for the “Production Environment and Pipeline” in order to deploy the Microservices App into it.](https://cmakkaya.medium.com/working-with-microservices-10-explanation-of-the-production-stage-and-creating-amazon-eks-cluster-f202558ca4fb)
 - [📝 Working with Microservices-9: Preparing the staging pipeline in Jenkins, and deploying the microservices app to the Kubernetes cluster using Rancher, Helm, Maven, Amazon ECR, and Amazon S3. Part-2](https://cmakkaya.medium.com/working-with-microservices-9-preparing-the-staging-pipeline-in-jenkins-and-deploying-the-270f4770a723)
@@ -182,7 +184,7 @@
 
 
 ## <p> 
-🚌 There are documents(class-notes, hands-on, projects and inclass-slides) in the repositories below, that I used throughout  [my AWS/DevOps journey](https://github.com/cmakkaya)  while learning different `AWS Services`, `DevOps Tools` `and other tools` `(Linux, Network, Bash Scripting, VScode-Vim-Nano)`.
+🚌 There are documents(class notes, hands-on, projects and in class-slides) in the repositories below, that I used throughout  [my AWS/DevOps journey](https://github.com/cmakkaya)  while learning different `AWS Services`, `DevOps Tools` `and other tools` `(Linux, Network, Bash Scripting, VScode-Vim-Nano)`.
 
   | Repository Name | Description  |
   | ------ | ------ |
@@ -190,7 +192,7 @@
   | [DevOps Tools](https://github.com/cmakkaya/G2-DevOps-Tools/tree/master/hands-on) | Demos for different DevOps Tools including Terraform, Docker, Kubernetes, Ansible, Nexus, Prometheus, Grafana, Helm, Jenkins, Maven, Git-Github, Gitlab, Agile, Jira, Rancher, Selenyum. |
   | [Other Tools](https://github.com/cmakkaya/G3-Other-Tools) | Demos for different Tools including Linux, Network, Bash Scripting, VScode-Vim-Nano. |
   | [AWS DevOps Projects](https://github.com/cmakkaya/G4-AWS-DevOpsProjects) | DevOps projects using AWS. |
-  | [CI/CD microservices with database](https://github.com/cmakkaya/Ln-D07-full-CI-CD-pipelines-for-microservice-based-dynamic-app) | Java Microservices CI/CD Project for Dynamic web page with database, having profile: Testing/Staging/Production.   Using Devops Tools (Kubernetes, Docker, Docker_Compose, Jenkins, Maven, Nexus, Ansible, Selenium, Rancher, Prometheus, Grafana, Git, Github, Terraform) and AWS Tools (ECS, ECR, R53, EC2, VPC's Components) and Deploying the Spring Web App on it. |
+  | [CI/CD microservices with database](https://github.com/cmakkaya/Ln-D07-full-CI-CD-pipelines-for-microservice-based-dynamic-app) | Java Microservices CI/CD Project for Dynamic web page with database, having profile: Testing/Staging/Production.   Using DevOps Tools (Kubernetes, Docker, Docker_Compose, Jenkins, Maven, Nexus, Ansible, Selenium, Rancher, Prometheus, Grafana, Git, Github, Terraform) and AWS Tools (ECS, ECR, R53, EC2, VPC's Components) and Deploying the Spring Web App on it. |
  
 ## <p>
 <p align="center">
@@ -215,7 +217,7 @@
 
 ✨ First the dreams die, then human!
 ✨ Life will never be greater than the dreams 
-we create in our mind.
+we create in our minds.
 ✨ Never give up!
 
 🙏 Thank you for visiting my profile. 
