@@ -31,7 +31,8 @@
 <a href="https://cumhur.akkaya.link/" target="blank"><img align="center" src="pictures/person.jpg" height="30" width="30" /></a> [Portfolio Page](https://cumhur.akkaya.link/)
 
 <p align="left">
-<a href="https://www.linkedin.com/in/cumhurakkaya/" target="LinkedIn"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="https://www.linkedin.com/in/cumhurakkaya/" height="30" width="30" /></a>  
+
+<a href="https://www.linkedin.com/in/cumhurakkaya/" target="LinkedIn"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="https://www.linkedin.com/in/cumhurakkaya/" height="30" width="30" /></a> 
 <a href="https://cmakkaya.medium.com/" target="blank"><img align="center" src="https://upload.vectorlogo.zone/logos/medium/images/43c41ba8-9de2-453d-92dc-500dab4e316a.svg" alt="https://cmakkaya.medium.com/" height="45" width="35" /></a>
 <a href="https://www.youtube.com/@Cumhur-Akkaya" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="https://www.youtube.com/@Cumhur-Akkaya" height="30" width="30" /></a>
 <a href="https://gitlab.com/cmakkaya/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="gitlab" alt="https://gitlab.com/cmakkaya/" height="30" width="30" /></a>
