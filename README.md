@@ -1,11 +1,16 @@
-# Hi there, <img src = "https://github.com/cmakkaya/cmakkaya/blob/main/wavehand.gif" width = "40" align="center"> Nice to see you. <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="40"/>  
 
+<p>
+<img align="right" src="https://github.com/cmakkaya/cmakkaya/blob/main/Ukraine.jpg" />
+</p>
+
+# Hi there, <img src = "https://github.com/cmakkaya/cmakkaya/blob/main/wavehand.gif" width = "40" align="center"> Nice to see you. <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="40"/>  
 
 <img align="right" src="https://github.com/cmakkaya/cmakkaya/blob/main/DevOpsMan.gif" width="270"/>
 
 <p>
   <a href="https://github.com/cmakkaya?tab=repositories"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=f80321&size=28&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Cloud+/+DevOps+Engineer,;I'm+interested+in+DevSecOps,;I'm+love+learning+about+them.;" /></a>
 </p>
+
 <!--
 
 ![](https://komarev.com/ghpvc/?username=cmakkaya)
@@ -25,7 +30,6 @@
 🥅 2025 Goals: I plan to learn more about DevSecOps and the Cloud. I plan to get the following certifications: "AZ-104: Azure Administrator Certification," "Google Associate Cloud Engineer Certification," and "Certified Kubernetes Administrator (CKA)."
 - 😻 Fun fact: I love to read, search, and write about Cloud/DevOps. Besides this, I love to walk, ride, and fish.
 - 🌱 I’m dedicated to lifelong learning, to my three children, and to my unique wife.
-
 
 ## 🔗 &nbsp;**Connect with me**  📫  You can learn more about me.
 <a href="https://cumhur.akkaya.link/" target="blank"><img align="center" src="pictures/person.jpg" height="30" width="30" /></a> [Portfolio Page](https://cumhur.akkaya.link/)
