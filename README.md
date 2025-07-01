@@ -92,8 +92,8 @@
 - [📝 ETL(Extract, Transform, and Load), Analyze and Visualize a Data Lake Using AWS Glue, Amazon Athena, Amazon Quicksight, and Amazon S3](https://cmakkaya.medium.com/etl-extract-transform-and-load-analyze-and-visualize-a-data-lake-using-aws-glue-amazon-athena-a6c995685744)
 - [📝 Step-by-Step Tutorial to Set Up, Build a CI/CD Deployment Pipeline, and Monitor a Kubernetes Cluster on Amazon EKS.](https://towardsaws.com/step-by-step-tutorial-to-set-up-build-a-ci-cd-deployment-pipeline-and-monitor-a-kubernetes-f210c850a8e1)
 - [📝 What is a Framework? What is it used for?](https://cmakkaya.medium.com/what-is-a-framework-what-is-it-used-for-7c19251cf564)
-- [📝 Deploying a Microservices Application with RDS MySql DB into Kubernetes Cluster With High Availability, Auto-Healing, Reliability, Auto Scaling, Monitoring, and Securing.](https://cmakkaya.medium.com/deploying-a-microservices-application-with-rds-mysql-db-into-kubernetes-cluster-with-high-818c7c51ab12)
-- [📝 Step by Step Full DevOps Project : Creating A Kubernetes Cluster With High Availability, Reliability, Auto Scaling, Auto-Healing, and Monitoring.](https://cmakkaya.medium.com/step-by-step-full-project-creating-a-kubernetes-cluster-with-high-availability-reliability-3333ebcc687c)
+- [📝 Deploying a Microservices Application with RDS MySQL DB into Kubernetes Cluster With High Availability, Auto-Healing, Reliability, Auto Scaling, Monitoring, and Securing.](https://cmakkaya.medium.com/deploying-a-microservices-application-with-rds-mysql-db-into-kubernetes-cluster-with-high-818c7c51ab12)
+- [📝 Step by Step Full DevOps Project: Creating A Kubernetes Cluster With High Availability, Reliability, Auto Scaling, Auto-Healing, and Monitoring.](https://cmakkaya.medium.com/step-by-step-full-project-creating-a-kubernetes-cluster-with-high-availability-reliability-3333ebcc687c)
 - [📝 Message Queue(MQ) Systems-2: Installing and Using Apache Kafka as an Event Streaming Platform.](https://cmakkaya.medium.com/message-queue-mq-systems-2-installing-and-using-apache-kafka-as-an-event-streaming-platform-fad3e99ded85)
 - [📝 Message Queue(MQ) Systems-1: Amazon SQS (Simple Queue Service).](https://cmakkaya.medium.com/message-queue-mq-systems-1-amazon-sqs-simple-queue-service-42fb5962cf3d)
 - [📝 .NET Series-2: Adding and Running The “Unit Tests” to the “Build stage” for the .NET Application in the AWS CodePipeline.](https://cmakkaya.medium.com/net-series-2-adding-and-running-the-unit-tests-to-the-build-stage-for-the-net-30e41e513206)
@@ -112,7 +112,7 @@
 - [📝 AWS AI Services-1: What are Artificial Intelligence (AI) and AWS AI Services?](https://cmakkaya.medium.com/aws-ai-services-1-what-is-artificial-intelligence-ai-and-aws-ai-services-c5f2adf60243#7317)
 - [📝 Log Search and Analysis Using ELK Stack ( Elastic Search, Logstash, and Kibana).](https://cmakkaya.medium.com/log-search-and-analysis-using-elk-stack-elastic-search-logstash-and-kibana-ea16437a98d8)
 - [📝 Kubernetes: Creating and Testing a Horizontal Pod Autoscaling (HPA) in Kubernetes Cluster.](https://cmakkaya.medium.com/kubernetes-creating-and-testing-a-horizontal-pod-autoscaling-hpa-in-kubernetes-cluster-548f2378f0c3)
-- [📝 What are an API and Amazon API Gateway? Creating and Using a REST API with Amazon API Gateway.](https://cmakkaya.medium.com/what-is-an-api-and-the-amazon-api-gateway-creating-and-using-a-rest-api-with-amazon-api-gateway-d1b42cbb1037)
+- [📝 What is an API and Amazon API Gateway? Creating and Using a REST API with Amazon API Gateway.](https://cmakkaya.medium.com/what-is-an-api-and-the-amazon-api-gateway-creating-and-using-a-rest-api-with-amazon-api-gateway-d1b42cbb1037)
 - [📝 Cost Optimization on AWS EC2 and Database Instances Using AWS Lambda and Amazon EventBridge - 2.](https://cmakkaya.medium.com/cost-optimization-on-aws-ec2-and-database-instances-using-aws-lambda-and-amazon-eventbridge-2-faf0b6e59410#c42a)
 - [📝 Cost Optimization on AWS EC2 and Database Instances Using AWS Lambda and Amazon EventBridge - 1.](https://cmakkaya.medium.com/cost-optimization-on-aws-ec2-and-database-instances-using-aws-lambda-and-amazon-eventbridge-1-33636da0eca9)
 - [📝 AWS Amplify-1: Web Hosting Flutter Application Using AWS Amplify.](https://medium.com/@cmakkaya/aws-amplify-1-web-hosting-flutter-application-using-aws-amplify-1c7ba08dd1c4)
@@ -143,17 +143,17 @@
 - [📝 Working with Database-MongoDB (1): Creating a Database with MongoDB Atlas](https://cmakkaya.medium.com/working-database-mongodb-1-creating-a-database-with-mongodb-atlas-4ef48cec4c52)
 - [📝 Working with Database-MSSQL Server (1): Introduction Microsoft SQL Server and Explanation of what we will do in this series of articles.](https://cmakkaya.medium.com/working-database-1-introduction-microsoft-sql-server-and-explanation-of-what-we-will-do-in-this-105bebf66a55)
 - [📝 Docker Desktop-3: Deploying a Java-based Veterinarian Clinic Web App and its MySql DataBase to the Docker Desktop Kubernetes Cluster by using Kubernetes manifesto yaml files](https://medium.com/@cmakkaya/docker-desktop-3-deploying-a-java-based-veterinarian-clinic-web-app-and-its-mysql-database-to-the-ac6609a49fa8)
-- [📝 How to reset the initialing passwords of DevOps tools (Jenkins, Rancher, Nexus, etc.) or get the bootstrap password manually?](https://cmakkaya.medium.com/how-to-reset-the-initialing-passwords-of-devops-tools-jenkins-rancher-nexus-etc-e1de341d9e7a)
+- [📝 How to reset the initial passwords of DevOps tools (Jenkins, Rancher, Nexus, etc.) or get the bootstrap password manually?](https://cmakkaya.medium.com/how-to-reset-the-initialing-passwords-of-devops-tools-jenkins-rancher-nexus-etc-e1de341d9e7a)
 - [📝 Bitbucket-1: Creating a Bitbucket Repository and Adding our Project files to the New Repository Using VS Code](https://cmakkaya.medium.com/bitbucket-1-creating-a-bitbucket-repository-and-adding-our-project-files-to-the-new-repository-2c4267bf5b46)
 - [📝 Working with Microservices-1: Running a Java app that consists of 10 Microservices on a Development server.](https://cmakkaya.medium.com/working-with-microservices-1-running-a-java-app-that-consists-of-10-microservice-on-a-development-5de2f2b3c758)
 - [📝 Amazon Cognito-1: Creating Cognito User Pools for authentication, and Connecting to an Application by using it.](https://cmakkaya.medium.com/amazon-cognito-1-creating-cognito-user-pools-for-authentication-and-connecting-to-an-application-99f8c5388205)
 - [📝 Copying the Rancher cluster’s “KubeConfig” file into Jenkins server using Rancher or VScode](https://cmakkaya.medium.com/copying-the-rancher-clusters-kubeconfig-file-to-jenkins-using-rancher-or-vscode-40acf8d6fe8c)
-- [📝 Nexus-1: Setting up (with Terraform or Manuel) and Using Nexus (Building Java app with Maven using Nexus).](https://cmakkaya.medium.com/nexus-1-installing-with-terraform-or-manuel-and-using-nexus-building-java-app-with-maven-using-f46aad6efff7)
+- [📝 Nexus-1: Setting up (with Terraform or Manual) and Using Nexus (Building Java app with Maven using Nexus).](https://cmakkaya.medium.com/nexus-1-installing-with-terraform-or-manuel-and-using-nexus-building-java-app-with-maven-using-f46aad6efff7)
 - [📝 You should definitely try: Great convenience auto-connect to our EC2 instance using VScode](https://cmakkaya.medium.com/you-should-definitely-try-great-convenience-auto-connect-to-our-ec2-instance-using-vscode-a1cd0ab47678)
-- [📝 Rancher-1: Creating the Rancher server with manual installation or using terraform file and Running Rancher in it.](https://cmakkaya.medium.com/rancher-1-deploying-rancher-with-manuel-installation-or-using-terraform-file-57cb4a7c9be4)
+- [📝 Rancher-1: Creating the Rancher server with manual installation or using a terraform file and Running Rancher in it.](https://cmakkaya.medium.com/rancher-1-deploying-rancher-with-manuel-installation-or-using-terraform-file-57cb4a7c9be4)
 - [📝 AWS EC2 Instance Connect Endpoint: New feature, Great convenience, Its installation step by step](https://cmakkaya.medium.com/aws-instance-connect-endpoint-new-feature-great-easiness-its-installation-step-by-step-730074ab8940)
 - [📝 Using a private GitHub repository with a “GitHub Personal Access Token” in the Jenkins pipeline that runs automatically the development stage via Amazon ECR and Docker container.](https://cmakkaya.medium.com/using-a-private-github-repository-with-a-github-personal-access-token-in-the-jenkins-pipeline-3f3755725fd1)
-- [📝 One of the easiest ways to build and run Javascript applications for testing before the production stage: Using the “Docker Plugin” as an agent in Jenkins.](https://cmakkaya.medium.com/easily-build-and-run-java-script-applications-using-docker-plugin-as-an-agent-in-jenkins-for-b4e3458dc4f3)
+- [📝 One of the easiest ways to build and run JavaScript applications for testing before the production stage: Using the “Docker Plugin” as an agent in Jenkins.](https://cmakkaya.medium.com/easily-build-and-run-java-script-applications-using-docker-plugin-as-an-agent-in-jenkins-for-b4e3458dc4f3)
 - [📝 Creating a Load Test using BashScript and Trying on a website protected by AWS WAF](https://cmakkaya.medium.com/creating-a-load-test-using-bashscript-and-trying-on-a-website-protected-by-aws-waf-6815d561bdd8)
 - [📝 Diving into Kubernetes-3: Running a MongoDB and Nodejs App together in the Kubernetes cluster Using PV-PVC and ClusterIP-NodePort.](https://cmakkaya.medium.com/diving-into-kubernetes-3-running-a-mongodb-and-nodejs-app-together-in-the-kubernetes-cluster-using-c1d21b516af7)
 - [📝 Helm-2: Deploying an App into GKE via the Helm by Using GitHub as a Helm Chart Repository.](https://cmakkaya.medium.com/helm-2-deploying-an-app-into-gke-via-the-helm-by-using-github-as-a-helm-chart-repository-3598d33f34b3)
@@ -163,7 +163,7 @@
 - [📝 Message Queue(MQ) Systems-2: Installing and Using Apache Kafka as an Event Streaming Platform.](https://cmakkaya.medium.com/message-queue-mq-systems-2-installing-and-using-apache-kafka-as-an-event-streaming-platform-fad3e99ded85)
 - [📝 ETL(Extract, Transform, and Load), Analyze and Visualize a Data Lake Using AWS Glue, Amazon Athena, Amazon Quicksight, and Amazon S3](https://cmakkaya.medium.com/etl-extract-transform-and-load-analyze-and-visualize-a-data-lake-using-aws-glue-amazon-athena-a6c995685744)
 - [📝 Step-by-Step Tutorial to Set Up, Build a CI/CD Deployment Pipeline, and Monitor a Kubernetes Cluster on Amazon EKS.](https://towardsaws.com/step-by-step-tutorial-to-set-up-build-a-ci-cd-deployment-pipeline-and-monitor-a-kubernetes-f210c850a8e1)
-- [📝 Deploying a Microservices Application with RDS MySql DB into Kubernetes Cluster With High Availability, Auto-Healing, Reliability, Auto Scaling, Monitoring, and Securing.](https://cmakkaya.medium.com/deploying-a-microservices-application-with-rds-mysql-db-into-kubernetes-cluster-with-high-818c7c51ab12)
+- [📝 Deploying a Microservices Application with RDS MySQL DB into Kubernetes Cluster With High Availability, Auto-Healing, Reliability, Auto Scaling, Monitoring, and Securing.](https://cmakkaya.medium.com/deploying-a-microservices-application-with-rds-mysql-db-into-kubernetes-cluster-with-high-818c7c51ab12)
 
   
 #### 📖 `From "Working with Microservices Series" :`
@@ -180,7 +180,7 @@
 ## 📗 For my other Medium articles
 - [📝 My Other Medium Articles.](https://medium.com/@cmakkaya)
 
-## 📗 For my Youtube Videos
+## 📗 For my YouTube Videos
 - [📝 My Youtube Videos.](https://www.youtube.com/channel/UCWcRIvy70tBBfrmBocDR5hA)
 
 
@@ -191,9 +191,9 @@
   | ------ | ------ |
   | [AWS Services](https://github.com/cmakkaya/G1-AWS-Services/tree/master/hands-on) | Demos for different AWS Services including IAM, EC2, CFN, S3, EBS, ELB, ASG, AWS CLI, RDS, DynamoDB, Boto3, SNS, SQS, CloudWatch, Cognito, EKS, ECR, ECS, Fargate, VPC, Route53, CloudFront, ElasticBeanstalk, Lambda, EFS, NAT GW, API GW, CodeCommit, CodeBuild, CodeDeploy, CodePipeline. |
   | [DevOps Tools](https://github.com/cmakkaya/G2-DevOps-Tools/tree/master/hands-on) | Demos for different DevOps Tools including Terraform, Docker, Kubernetes, Ansible, Nexus, Prometheus, Grafana, Helm, Jenkins, Maven, Git-Github, Gitlab, Agile, Jira, Rancher, Selenyum. |
-  | [Other Tools](https://github.com/cmakkaya/G3-Other-Tools) | Demos for different Tools including Linux, Network, Bash Scripting, VScode-Vim-Nano. |
+  | [Other Tools](https://github.com/cmakkaya/G3-Other-Tools) | Demos for different Tools, including Linux, Network, Bash Scripting, VScode-Vim-Nano. |
   | [AWS DevOps Projects](https://github.com/cmakkaya/G4-AWS-DevOpsProjects) | DevOps projects using AWS. |
-  | [CI/CD microservices with database](https://github.com/cmakkaya/Ln-D07-full-CI-CD-pipelines-for-microservice-based-dynamic-app) | Java Microservices CI/CD Project for Dynamic web page with database, having profile: Testing/Staging/Production.   Using DevOps Tools (Kubernetes, Docker, Docker_Compose, Jenkins, Maven, Nexus, Ansible, Selenium, Rancher, Prometheus, Grafana, Git, Github, Terraform) and AWS Tools (ECS, ECR, R53, EC2, VPC's Components) and Deploying the Spring Web App on it. |
+  | [CI/CD microservices with database](https://github.com/cmakkaya/Ln-D07-full-CI-CD-pipelines-for-microservice-based-dynamic-app) | Java Microservices CI/CD Project for Dynamic web page with database, having profile: Testing/Staging/Production.   Using DevOps Tools (Kubernetes, Docker, Docker_Compose, Jenkins, Maven, Nexus, Ansible, Selenium, Rancher, Prometheus, Grafana, Git, Github, Terraform) and AWS Tools (ECS, ECR, R53, EC2, VPCs Components) and Deploying the Spring Web App on it. |
  
 ## <p>
 <p align="center">
@@ -215,7 +215,7 @@
 ![](https://img.shields.io/github/languages/top/ik-workshop/workshop-blueprint?color=green&logo=markdown&logoColor=blue)
  </p> 
 
-✨ First the dreams die, then human!
+✨ First, the dreams die, then the human!
 ✨ Life will never be greater than the dreams 
 we create in our minds.
 ✨ Never give up!
