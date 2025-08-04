@@ -37,7 +37,7 @@
 <p align="left">
 
 <a href="https://www.linkedin.com/in/cumhurakkaya/" target="LinkedIn"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="https://www.linkedin.com/in/cumhurakkaya/" height="30" width="30" /></a> 
-<a href="https://cmakkaya.medium.com/" target="blank"><img align="center" src="https://upload.vectorlogo.zone/logos/medium/images/77ebde58-1ffc-4da3-8097-ec8efa49c3db.svg" alt="https://cmakkaya.medium.com/" height="35" width="150" /></a>
+<a href="https://cmakkaya.medium.com/" target="blank"><img align="center" src="https://github.com/cmakkaya/cmakkaya/blob/main/pictures/medium-logo.jpg" alt="https://cmakkaya.medium.com/" height="40" width="110" /></a>
 <a href="https://www.youtube.com/@Cumhur-Akkaya" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="https://www.youtube.com/@Cumhur-Akkaya" height="30" width="30" /></a>
 <a href="https://gitlab.com/cmakkaya/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="gitlab" alt="https://gitlab.com/cmakkaya/" height="30" width="30" /></a>
 <a href="https://bitbucket.org/cumhurshop/workspace/repositories/" target="blank"><img align="center" src="https://upload.vectorlogo.zone/logos/bitbucket/images/11915f2e-3287-46b6-a81d-0daad8160e11.svg" alt="https://bitbucket.org/cumhurshop/workspace/repositories/" height="30" width="30" /></a>
