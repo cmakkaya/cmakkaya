@@ -1,7 +1,8 @@
-
+<!--
 <p>
 <img align="right" src="https://github.com/cmakkaya/cmakkaya/blob/main/Ukraine.jpg" />
 </p>
+-->
 
 # Hi there, <img src = "https://github.com/cmakkaya/cmakkaya/blob/main/wavehand.gif" width = "40" align="center"> Nice to see you. <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="40"/>  
 
